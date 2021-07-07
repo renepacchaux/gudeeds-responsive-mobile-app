@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/renepacchaux/gudeeds-responsive-mobile-app/issues"
   },
-  "homepage": "https://github.com/renepacchaux/gudeeds-responsive-mobile-app#readme"
+  "homepage": "https://github.com/renepacchaux/gudeeds-responsive-mobile-app#readme",
+  "dependencies": {
+    "crosspost": "github:renepacchaux/crosspost-markdown#webflow"
+  }
 }
