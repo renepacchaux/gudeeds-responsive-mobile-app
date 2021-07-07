@@ -1,0 +1,23 @@
+{
+  "name": "gudeeds-responsive-mobile-app",
+  "version": "1.0.0",
+  "description": "ux casestudy for a responsive mobile app from hackathon prompt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renepacchaux/gudeeds-responsive-mobile-app.git"
+  },
+  "keywords": [
+    "ux",
+    "app"
+  ],
+  "author": "Rene M Paccha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renepacchaux/gudeeds-responsive-mobile-app/issues"
+  },
+  "homepage": "https://github.com/renepacchaux/gudeeds-responsive-mobile-app#readme"
+}
