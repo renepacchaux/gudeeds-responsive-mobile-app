@@ -4,7 +4,7 @@
 
 ### Kind of an overview
 
-Our team was presenting.
+Our persona, Sandra was representative of a situation recognized as a 'time-crunch.'
 
 First of all, sabrina requires nothing of her neighbors. These deeds help the busy nurse keep her wits an focus briefly on scheduling.  Her neighbors see a request for assistance, and offer to help.  They add a task, and are low-key added to her trusted circle.  The community grows tighter.
 
