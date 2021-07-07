@@ -3,6 +3,7 @@
 ## Responsive Mobile App
 
 ### Kind of an overview
+
 At the start of the final presentation, I was nervous.  It felt like I was winging it.  The team is in fact figuring it out, painstakingly and in documented fashion, but I had to release it from the tip of my tounge.  
 
 Sabrina, the representation of our user, sees and recognizes neighbors for the deeds they do as part of being neighborly.  This app aims to provide a better service in a time crunch within sabrinas trusted circle. 
