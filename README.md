@@ -16,9 +16,9 @@ To maintain growing trust,  neighbors in the persona's proximity see opportuniti
 
 #### First meeting between the devs and the design team
 
-I cannot exhibit control here.  It is a joint meeting and the people are new.  Dinosaurs were mentioned.  I can at least repeat what I like: Dinosaurs.  Sandra is busy and just downloaded the Gudeeds app.  The app will help build trust across her neighbors ' relationships.  Sabrina happens to be busy, especially with tasks required to raise two children.  To Gudeeds, the tasks mean bookings. Each confirmation implies that their app is better at being reliable.  
+I cannot exhibit control here.  It is a joint meeting, and the people are new.  Dinosaurs were mentioned.  I can at least repeat what I like: Dinosaurs.  Sandra is busy and just downloaded the Gudeeds app.  The app will help build trust across her neighbors ' relationships.  Sabrina happens to be busy, especially with tasks required to raise two children.  To Gudeeds, the tasks mean bookings. Each confirmation implies that their app is better at being reliable.  
 
-If there was a Sandra 2, Talisa.  If Talisa sees the types of tasks that others get help with, she is likely to book also.  Categorization was done from research and analysis facilitated this.  Talisa books now based on trust.  If charts and mini-analytics were available to her, she might be more efficient at her bookings. 
+If there was a Sandra 2, Talisa.  If Talisa sees the types of tasks that others get help with, she is likely to book also.  Categorization was done from research, and analysis facilitated this.  Talisa books now based on trust.  If charts and mini-analytics were available to her, she might be more efficient at her bookings. 
 
 At the end of her weeks, she sees your life caseload with two children diminish while continueing to schedule more help and address her upcoming week.  In all, while maybe still busy, she is less stressed out.
 
