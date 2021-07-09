@@ -6,6 +6,7 @@ _Designing for Sabrina_
 
 ### Platforms
 [-] Webapp
+[-] Mobile
 
 ### Kind of an overview
 
