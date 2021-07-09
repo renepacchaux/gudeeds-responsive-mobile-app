@@ -8,5 +8,4 @@ Our persona, Sandra was representative of a situation recognized as a 'time-crun
 
 ![draft user flow](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1.svg)
 
-
-Keep your wits on a time-crunch.
+To maintain growing trust,  neighbors in the persona's proximity see opportunites to help and add them to their queue.  Their offers of help go to Sabrina, where if she wants, can approve or deny based off her original request, focusing on nieghbors she deems appropriate.  She prepares her upcoming week with the help of the Gudeeds app volunteer scheduling app.
