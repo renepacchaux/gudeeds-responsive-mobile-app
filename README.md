@@ -9,7 +9,7 @@
 
 ### Project Summary
 
-To maintain growing trust,  neighbors in the persona's proximity see opportunities to help and add them to their queue.  Their offers of help go to Sabrina, where if she wants, she can approve or deny based on her original request, focusing on neighbors she deems appropriate.  She prepares for her upcoming week with the help of the Gudeeds app volunteer scheduling app.
+Their offers of help go to Sabrina, where if she wants, she can approve or deny based on her original request, focusing on neighbors she deems appropriate.  She prepares for her upcoming week with the help of the Gudeeds app volunteer scheduling app.
 
 ### Project
 
