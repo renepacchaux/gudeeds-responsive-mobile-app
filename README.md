@@ -1,39 +1,32 @@
-
-# Table of Contents
-
-1.  [Design, Collaboration, and Good deeds](#orgb841c52)
-        1.  [# Designing for proximity](#orgc12e985)
-    1.  [How do you recognize neighborly deeds?](#org5166240)
-        1.  [Zeroing in on trust](#org35fd356)
-        2.  [Looking at the Task Business](#org5187c83)
-        3.  [But how do you know?](#orgdf258bf)
-        4.  [# Syncing Up](#orga368a89)
-        5.  [## On the Problem](#orgefa8898)
-        6.  [For the Solution](#org0c9df35)
-        7.  [# The Design Work](#org60e998a)
-        8.  [Sketching](#orgafe31e8)
-        9.  [## Wireframes](#org5664825)
-        10. [## What testing taught us](#org8ae60d8)
-    2.  [Current Status](#org97a63c9)
-        1.  [## Gudeeds as client](#orgc6c3025)
-        2.  [## Next Steps](#org881f480)
-
-
-<a id="orgb841c52"></a>
-
 # Design, Collaboration, and Good deeds
 
+1.  [Design, Collaboration, and Good deeds](#orgb7704f4)
+    1.  [What are the needs of close neighbors?](#org491a984)
+        1.  [Zeroing in on trust](#orgdb94b73)
+        2.  [Looking at the Task Business](#orgca716ed)
+        3.  [But how do you know?](#org4306c8f)
+    2.  [Syncing Up](#orge736804)
+        1.  [On the Problem](#orgd87e5e8)
+        2.  [For the Solution](#org7a379ed)
+    3.  [The Design Work](#orgfd52e6c)
+        1.  [Sketching](#org47543b5)
+        2.  [Wireframes](#org227007d)
+        3.  [What testing taught us](#org8786e07)
+    4.  [Current Status](#org8bff191)
+        1.  [Gudeeds as client](#org508cc3f)
+        2.  [Next Steps](#org6eaea12)
 
-<a id="orgc12e985"></a>
 
-### # Designing for proximity
+<a id="orgb7704f4"></a>
+
+# Design, Collaboration, and Good deeds
 
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626116205850_Prox+Peek+2021-07-12+13-54.gif)
 
 
-<a id="org5166240"></a>
+<a id="org491a984"></a>
 
-## How do you recognize neighborly deeds?
+## What are the needs of close neighbors?
 
 **Codeable baseline** What can we (as a group) get done that is out of
 realm of possibility. Not for lack of skill, but for time and money.
@@ -71,7 +64,7 @@ As we moved towards defining user needs, the image of a milk jug as
 emblematic of ‘in what space' we were trying to accomplish our design
 
 
-<a id="org35fd356"></a>
+<a id="orgdb94b73"></a>
 
 ### Zeroing in on trust
 
@@ -80,7 +73,7 @@ emblematic of ‘in what space' we were trying to accomplish our design
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org5187c83"></a>
+<a id="orgca716ed"></a>
 
 ### Looking at the Task Business
 
@@ -107,7 +100,7 @@ persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
 
-<a id="orgdf258bf"></a>
+<a id="org4306c8f"></a>
 
 ### But how do you know?
 
@@ -120,19 +113,19 @@ To maintain growing trust, neighbors in the persona's proximity see
 opportunities to help and add them to their queue.
 
 
-<a id="orga368a89"></a>
+<a id="orge736804"></a>
 
-### # Syncing Up
+## Syncing Up
 
 
-<a id="orgefa8898"></a>
+<a id="orgd87e5e8"></a>
 
-### ## On the Problem
+### On the Problem
 
 **Just the stress of asking is enough of a barrier to moving forward.**
 
 
-<a id="org0c9df35"></a>
+<a id="org7a379ed"></a>
 
 ### For the Solution
 
@@ -145,12 +138,12 @@ appropriate.
 while maybe still busy, she is less stressed out.
 
 
-<a id="org60e998a"></a>
+<a id="orgfd52e6c"></a>
 
-### # The Design Work
+## The Design Work
 
 
-<a id="orgafe31e8"></a>
+<a id="org47543b5"></a>
 
 ### Sketching
 
@@ -160,9 +153,9 @@ while maybe still busy, she is less stressed out.
 'time-crunch.'
 
 
-<a id="org5664825"></a>
+<a id="org227007d"></a>
 
-### ## Wireframes
+### Wireframes
 
 **Discussing user A, user B**
 
@@ -173,9 +166,9 @@ upcoming week.
 **moving up fi, finding user A, user B.**
 
 
-<a id="org8ae60d8"></a>
+<a id="org8786e07"></a>
 
-### ## What testing taught us
+### What testing taught us
 
 **Our initial perception** She prepares for her upcoming week with the
 help of the Gudeeds app volunteer scheduling app.
@@ -190,22 +183,22 @@ actuallly:**
 likely to book also.
 
 
-<a id="org97a63c9"></a>
+<a id="org8bff191"></a>
 
 ## Current Status
 
 
-<a id="orgc6c3025"></a>
+<a id="org508cc3f"></a>
 
-### ## Gudeeds as client
+### Gudeeds as client
 
 To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org881f480"></a>
+<a id="org6eaea12"></a>
 
-### ## Next Steps
+### Next Steps
 
 **Explore if gamification is a good fit.**
 
