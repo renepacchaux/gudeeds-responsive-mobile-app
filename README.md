@@ -1,33 +1,34 @@
 
-# Gudeeds and Collaboration
+# Table of Contents
+
+1.  [Design, Collaboration, and Good deeds](#org6ffa0bd)
+    1.  [Zeroing in on trust](#org17263ef)
+    2.  [Looking at the Task Business](#org8ebf1f1)
+    3.  [But how do you know?](#org0d82a98)
+2.  [Syncing Up](#orga0a9cf4)
+    1.  [On the Problem](#orge26a1c4)
+    2.  [For the Solution](#orgc5849ce)
+3.  [The Design Work](#orgccc7244)
+    1.  [Sketching](#org4b6bbb2)
+    2.  [Wireframes](#orgc15a828)
+    3.  [What testing taught us](#org64e0595)
+4.  [Current Status](#org8256449)
+    1.  [Gudeeds as client](#org0ac6e03)
+    2.  [Next Steps](#orgd3de40d)
+
+![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626116205850_Prox+Peek+2021-07-12+13-54.gif)
 
 
+<a id="org6ffa0bd"></a>
 
-1.  [What are the needs of close neighbors?](#org279f9cd)
-    1.  [Zeroing in on trust](#org849e540)
-    2.  [Looking at the Task Business](#org3efce37)
-    3.  [But how do you know?](#orga2f8557)
-2.  [Syncing Up](#org9d41083)
-    1.  [On the Problem](#orgc03a580)
-    2.  [For the Solution](#org0a922e9)
-3.  [The Design Work](#orgf5ebcd9)
-    1.  [Sketching](#orgd8daf5b)
-    2.  [Wireframes](#orgce9bdee)
-    3.  [What testing taught us](#org7e8c6e6)
-4.  [Current Status](#org15e840d)
-    1.  [Gudeeds as client](#org5f4ca67)
-    2.  [Next Steps](#org0816c40)
+# Design, Collaboration, and Good deeds
 
-\![img](![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626116205850_Prox+Peek+2021-07-12+13-54.gif))]]
-
-<a id="org279f9cd"></a>
-
-****Codeable baseline**** What can we (as a group) get done that is out of
+**Codeable baseline** What can we (as a group) get done that is out of
 realm of possibility. Not for lack of skill, but for time and money.
 Here, I take my chance to ask any questions about project dream vs
 reality.
 
-****Platforms**** We called out our assumptions first. Pulling out a laptop at
+**Platforms** We called out our assumptions first. Pulling out a laptop at
 a grocery store: certain. Pulling out a phone: yes.
 
 -   Webapp Our work can work for iOS devices, but up to a point. We
@@ -36,16 +37,16 @@ a grocery store: certain. Pulling out a phone: yes.
 -   Mobile This desicion affected which design library we would implement
     for our prototype in short order.
     
-    ****\\\***** Research
-    **\*\\**\\\*\*\* Other Task Apps
+    **\* Research
+    \*\*** Other Task Apps
 
 To keep us from reinventing certain wheels, we make sure we looked at
-what was established en masse for simliar apps. ****Business Analysis**** The
+what was established en masse for simliar apps. **Business Analysis** The
 commonality is an IRL system of gathering (groceries) in our case.
 
--   ****Task Rabbit****
--   ****Amazon (Wholefoods)****
--   ****Instacart****
+-   **Task Rabbit**
+-   **Amazon (Wholefoods)**
+-   **Instacart**
 
 Our analysis required we break the information down into simliar
 components
@@ -57,22 +58,24 @@ components
 As we moved towards defining user needs, the image of a milk jug as
 emblematic of ‘in what space' we were trying to accomplish our design
 
-<a id="org849e540"></a>
 
-\## Zeroing in on trust
+<a id="org17263ef"></a>
 
-****Themes that include trust****
+## Zeroing in on trust
 
-\![img](![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif))
+**Themes that include trust**
 
-<a id="org3efce37"></a>
+![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
-\## Looking at the Task Business
+
+<a id="org8ebf1f1"></a>
+
+## Looking at the Task Business
 
 As the dev team went to design an inital user model in the code, the UX
 Team went to take a mental snapshot of where mental boundaries may help
 guide our priorities. We might need to express them at design handoff.  
-****Business Analysis**** While it may be fun to have a ‘karma'-like
+**Business Analysis** While it may be fun to have a ‘karma'-like
 affordance to energize task uptake&#x2026;we do find some priorities:
 
 -   Cart
@@ -80,10 +83,10 @@ affordance to energize task uptake&#x2026;we do find some priorities:
 -   Items
 -   Sort
 
-****Learn Quick**** Our user, we imagine, is a real person with limited time.
+**Learn Quick** Our user, we imagine, is a real person with limited time.
 Who does she pay back first.
 
-****Closeness of Volunteers and Trust Themes****
+**Closeness of Volunteers and Trust Themes**
 
 A level of trust is required
 
@@ -91,11 +94,12 @@ Our team, in starting to figure out and document why our representative
 persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
-<a id="orga2f8557"></a>
 
-\## But how do you know?
+<a id="org0d82a98"></a>
 
-****Persona****
+## But how do you know?
+
+**Persona**
 
 Sabrina happens to be busy, especially with tasks required to raise two
 children.
@@ -103,19 +107,24 @@ children.
 To maintain growing trust, neighbors in the persona's proximity see
 opportunities to help and add them to their queue.
 
-<a id="org9d41083"></a>
 
-<a id="orgc03a580"></a>
+<a id="orga0a9cf4"></a>
 
-\## On the Problem
+# Syncing Up
 
-****Just the stress of asking is enough of a barrier to moving forward.****
 
-<a id="org0a922e9"></a>
+<a id="orge26a1c4"></a>
 
-\## For the Solution
+## On the Problem
 
-****Less Stressed****
+**Just the stress of asking is enough of a barrier to moving forward.**
+
+
+<a id="orgc5849ce"></a>
+
+## For the Solution
+
+**Less Stressed**
 
 Their offers of help go to Sabrina, where if she wants, she can approve
 or deny based on her original request, focusing on neighbors she deems
@@ -123,59 +132,70 @@ appropriate.
 
 while maybe still busy, she is less stressed out.
 
-<a id="orgf5ebcd9"></a>
 
-<a id="orgd8daf5b"></a>
+<a id="orgccc7244"></a>
 
-\## Sketching
+# The Design Work
+
+
+<a id="org4b6bbb2"></a>
+
+## Sketching
 
 -   [design Studio Brackets]
 
-****Designing for the Time Crunch**** A situation recognized as a
+**Designing for the Time Crunch** A situation recognized as a
 'time-crunch.'
 
-<a id="orgce9bdee"></a>
 
-\## Wireframes
+<a id="orgc15a828"></a>
 
-****Discussing user A, user B****
+## Wireframes
+
+**Discussing user A, user B**
 
 At the end of her weeks, she sees your life caseload with two children
 diminish while continueing to schedule more help and address her
 upcoming week.
 
-****moving up fi, finding user A, user B.****
+**moving up fi, finding user A, user B.**
 
-<a id="org7e8c6e6"></a>
 
-\## What testing taught us
+<a id="org64e0595"></a>
 
-****Our initial perception**** She prepares for her upcoming week with the
+## What testing taught us
+
+**Our initial perception** She prepares for her upcoming week with the
 help of the Gudeeds app volunteer scheduling app.
 
-****Our perception of obvious placement of a primary button, was
-actuallly:****
+**Our perception of obvious placement of a primary button, was
+actuallly:**
 
 -   Confusing
 -   Redundant
 
-****Categories**** Clarifying types of tasks that others get help with, she is
+**Categories** Clarifying types of tasks that others get help with, she is
 likely to book also.
 
-<a id="org15e840d"></a>
 
-<a id="org5f4ca67"></a>
+<a id="org8256449"></a>
 
-\## Gudeeds as client
+# Current Status
+
+
+<a id="org0ac6e03"></a>
+
+## Gudeeds as client
 
 To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
-<a id="org0816c40"></a>
 
-\## Next Steps
+<a id="orgd3de40d"></a>
 
-****Explore if gamification is a good fit.****
+## Next Steps
+
+**Explore if gamification is a good fit.**
 
 Sandra is busy and just downloaded the Gudeeds app. The app will help
 build trust across her neighbors ' relationships.
