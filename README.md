@@ -1,25 +1,22 @@
 
-# Design, Collaboration, and Good deeds
 
-1.  [Design, Collaboration, and Good deeds](#org6ffa0bd)
-    1.  [Zeroing in on trust](#org17263ef)
-    2.  [Looking at the Task Business](#org8ebf1f1)
-    3.  [But how do you know?](#org0d82a98)
-2.  [Syncing Up](#orga0a9cf4)
-    1.  [On the Problem](#orge26a1c4)
-    2.  [For the Solution](#orgc5849ce)
-3.  [The Design Work](#orgccc7244)
-    1.  [Sketching](#org4b6bbb2)
-    2.  [Wireframes](#orgc15a828)
-    3.  [What testing taught us](#org64e0595)
-4.  [Current Status](#org8256449)
-    1.  [Gudeeds as client](#org0ac6e03)
-    2.  [Next Steps](#orgd3de40d)
-
-![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626116205850_Prox+Peek+2021-07-12+13-54.gif)
+1.  [Design, Collaboration, and Good deeds](#org8596438)
+    1.  [Zeroing in on trust](#orgd29b5bd)
+    2.  [Looking at the Task Business](#orgf1ad794)
+    3.  [But how do you know?](#org3393dd0)
+2.  [Syncing Up](#orgf6699a3)
+    1.  [On the Problem](#org2872487)
+    2.  [For the Solution](#orgb5ce5a4)
+3.  [The Design Work](#orgdbbe97a)
+    1.  [Sketching](#org4946708)
+    2.  [Wireframes](#org37d4182)
+    3.  [What testing taught us](#org5c0d041)
+4.  [Current Status](#orgd916cff)
+    1.  [Gudeeds as client](#org8bee282)
+    2.  [Next Steps](#org4e58688)
 
 
-<a id="org6ffa0bd"></a>
+<a id="org8596438"></a>
 
 
 
@@ -59,7 +56,7 @@ As we moved towards defining user needs, the image of a milk jug as
 emblematic of ‘in what space' we were trying to accomplish our design
 
 
-<a id="org17263ef"></a>
+<a id="orgd29b5bd"></a>
 
 ## Zeroing in on trust
 
@@ -68,7 +65,7 @@ emblematic of ‘in what space' we were trying to accomplish our design
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org8ebf1f1"></a>
+<a id="orgf1ad794"></a>
 
 ## Looking at the Task Business
 
@@ -95,7 +92,7 @@ persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
 
-<a id="org0d82a98"></a>
+<a id="org3393dd0"></a>
 
 ## But how do you know?
 
@@ -108,19 +105,19 @@ To maintain growing trust, neighbors in the persona's proximity see
 opportunities to help and add them to their queue.
 
 
-<a id="orga0a9cf4"></a>
+<a id="orgf6699a3"></a>
 
 # Syncing Up
 
 
-<a id="orge26a1c4"></a>
+<a id="org2872487"></a>
 
 ## On the Problem
 
 **Just the stress of asking is enough of a barrier to moving forward.**
 
 
-<a id="orgc5849ce"></a>
+<a id="orgb5ce5a4"></a>
 
 ## For the Solution
 
@@ -133,12 +130,12 @@ appropriate.
 while maybe still busy, she is less stressed out.
 
 
-<a id="orgccc7244"></a>
+<a id="orgdbbe97a"></a>
 
 # The Design Work
 
 
-<a id="org4b6bbb2"></a>
+<a id="org4946708"></a>
 
 ## Sketching
 
@@ -148,7 +145,7 @@ while maybe still busy, she is less stressed out.
 'time-crunch.'
 
 
-<a id="orgc15a828"></a>
+<a id="org37d4182"></a>
 
 ## Wireframes
 
@@ -161,7 +158,7 @@ upcoming week.
 **moving up fi, finding user A, user B.**
 
 
-<a id="org64e0595"></a>
+<a id="org5c0d041"></a>
 
 ## What testing taught us
 
@@ -178,12 +175,12 @@ actuallly:**
 likely to book also.
 
 
-<a id="org8256449"></a>
+<a id="orgd916cff"></a>
 
 # Current Status
 
 
-<a id="org0ac6e03"></a>
+<a id="org8bee282"></a>
 
 ## Gudeeds as client
 
@@ -191,7 +188,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="orgd3de40d"></a>
+<a id="org4e58688"></a>
 
 ## Next Steps
 
