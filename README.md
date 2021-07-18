@@ -2,7 +2,6 @@
 # Designing for proximity
 
 1.  [Design, Collaboration, and Good deeds](#org51d584f)
-        1.  [# Designing for proximity](#org6cd49cb)
     1.  [What are the needs of close neighbors?](#org6f62261)
         1.  [Zeroing in on trust](#org2f4776b)
         2.  [Looking at the Task Business](#orgd5006c0)
