@@ -1,5 +1,5 @@
 
-# Table of Contents
+# Design, Collaboration, and Good deeds
 
 1.  [Design, Collaboration, and Good deeds](#org6ffa0bd)
     1.  [Zeroing in on trust](#org17263ef)
@@ -21,7 +21,7 @@
 
 <a id="org6ffa0bd"></a>
 
-# Design, Collaboration, and Good deeds
+
 
 **Codeable baseline** What can we (as a group) get done that is out of
 realm of possibility. Not for lack of skill, but for time and money.
