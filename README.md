@@ -1,5 +1,5 @@
 
-# Designing for proximity
+# Designing for proximity 
 
 1.  [Design, Collaboration, and Good deeds](#org51d584f)
     1.  [What are the needs of close neighbors?](#org6f62261)
