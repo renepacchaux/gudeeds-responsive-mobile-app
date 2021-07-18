@@ -1,74 +1,102 @@
-# Gudeeds
 
-## Table of Contents
+# Table of Contents
 
-1.  [# *Designing for proximity*](#org09b3f8b)
-2.  [## Looking at the Task Business](#org9bbacb2)
-3.  [But how do you know?](#org70ebf60)
-4.  [# Syncing Up](#org3700f3d)
-5.  [## On the Problem](#org62c4a8e)
-6.  [For the Solution](#org8e1096d)
-7.  [# The Design Work](#org849d1e9)
-8.  [Sketching](#org4420a12)
-9.  [## Wireframes](#orga02d15b)
-10. [## What testing taught us](#orga772006)
-11. [## Gudeeds as client](#orgf35bd6c)
-12. [## Next Steps](#org407b6bb)
+1.  [Design, Collaboration, and Good deeds](#orgb841c52)
+        1.  [# Designing for proximity](#orgc12e985)
+    1.  [How do you recognize neighborly deeds?](#org5166240)
+        1.  [Zeroing in on trust](#org35fd356)
+        2.  [Looking at the Task Business](#org5187c83)
+        3.  [But how do you know?](#orgdf258bf)
+        4.  [# Syncing Up](#orga368a89)
+        5.  [## On the Problem](#orgefa8898)
+        6.  [For the Solution](#org0c9df35)
+        7.  [# The Design Work](#org60e998a)
+        8.  [Sketching](#orgafe31e8)
+        9.  [## Wireframes](#org5664825)
+        10. [## What testing taught us](#org8ae60d8)
+    2.  [Current Status](#org97a63c9)
+        1.  [## Gudeeds as client](#orgc6c3025)
+        2.  [## Next Steps](#org881f480)
 
 
-<a id="org09b3f8b"></a>
+<a id="orgb841c52"></a>
 
-# # *Designing for proximity*
+# Design, Collaboration, and Good deeds
+
+
+<a id="orgc12e985"></a>
+
+### # Designing for proximity
 
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626116205850_Prox+Peek+2021-07-12+13-54.gif)
 
-**Codeable baseline set**
 
-We asked questions of the dev team about project vs reality.
+<a id="org5166240"></a>
 
-**Platforms**
+## How do you recognize neighborly deeds?
 
--   **\*** Webapp
+**Codeable baseline** What can we (as a group) get done that is out of
+realm of possibility. Not for lack of skill, but for time and money.
+Here, I take my chance to ask any questions about project dream vs
+reality.
 
--   **\*** Mobile
-    **\*** # Research
-    **\*** ## Other Task Apps
+**Platforms** We called out our assumptions first. Pulling out a laptop at
+a grocery store: certain. Pulling out a phone: yes.
 
-**Business Analysis**
+-   Webapp Our work can work for iOS devices, but up to a point. We
+    focused on browser based interactions.
+
+-   Mobile This desicion affected which design library we would implement
+    for our prototype in short order.
+    
+    **\* Research
+    \*\*** Other Task Apps
+
+To keep us from reinventing certain wheels, we make sure we looked at
+what was established en masse for simliar apps. **Business Analysis** The
+commonality is an IRL system of gathering (groceries) in our case.
 
 -   **Task Rabbit**
-
 -   **Amazon (Wholefoods)**
+-   **Instacart**
 
--   **\*** **Instacart**
+Our analysis required we break the information down into simliar
+components
 
 -   Cart
-
 -   Schedule
+-   Sort
 
--   **\*** Sort
-    **\*** ## Zeroing in on trust
+As we moved towards defining user needs, the image of a milk jug as
+emblematic of ‘in what space' we were trying to accomplish our design
+
+
+<a id="org35fd356"></a>
+
+### Zeroing in on trust
 
 **Themes that include trust**
 
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org9bbacb2"></a>
+<a id="org5187c83"></a>
 
-# ## Looking at the Task Business
+### Looking at the Task Business
 
-**Business Analysis**
+As the dev team went to design an inital user model in the code, the UX
+Team went to take a mental snapshot of where mental boundaries may help
+guide our priorities. We might need to express them at design handoff.  
+**Business Analysis** While it may be fun to have a ‘karma'-like
+affordance to energize task uptake&#x2026;we do find some priorities:
 
 -   Cart
-
 -   Date
-
 -   Items
+-   Sort
 
--   **\*** Sort
-
-**Learn Quick**
+**Learn Quick** Our user, we imagine, is a real person with limited time.
+Who does she pay back first.
 
 **Closeness of Volunteers and Trust Themes**
 
@@ -79,9 +107,9 @@ persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
 
-<a id="org70ebf60"></a>
+<a id="orgdf258bf"></a>
 
-# But how do you know?
+### But how do you know?
 
 **Persona**
 
@@ -92,21 +120,21 @@ To maintain growing trust, neighbors in the persona's proximity see
 opportunities to help and add them to their queue.
 
 
-<a id="org3700f3d"></a>
+<a id="orga368a89"></a>
 
-# # Syncing Up
+### # Syncing Up
 
 
-<a id="org62c4a8e"></a>
+<a id="orgefa8898"></a>
 
-# ## On the Problem
+### ## On the Problem
 
 **Just the stress of asking is enough of a barrier to moving forward.**
 
 
-<a id="org8e1096d"></a>
+<a id="org0c9df35"></a>
 
-# For the Solution
+### For the Solution
 
 **Less Stressed**
 
@@ -117,14 +145,14 @@ appropriate.
 while maybe still busy, she is less stressed out.
 
 
-<a id="org849d1e9"></a>
+<a id="org60e998a"></a>
 
-# # The Design Work
+### # The Design Work
 
 
-<a id="org4420a12"></a>
+<a id="orgafe31e8"></a>
 
-# Sketching
+### Sketching
 
 -   [design Studio Brackets]
 
@@ -132,9 +160,9 @@ while maybe still busy, she is less stressed out.
 'time-crunch.'
 
 
-<a id="orga02d15b"></a>
+<a id="org5664825"></a>
 
-# ## Wireframes
+### ## Wireframes
 
 **Discussing user A, user B**
 
@@ -145,9 +173,9 @@ upcoming week.
 **moving up fi, finding user A, user B.**
 
 
-<a id="orga772006"></a>
+<a id="org8ae60d8"></a>
 
-# ## What testing taught us
+### ## What testing taught us
 
 **Our initial perception** She prepares for her upcoming week with the
 help of the Gudeeds app volunteer scheduling app.
@@ -162,17 +190,22 @@ actuallly:**
 likely to book also.
 
 
-<a id="orgf35bd6c"></a>
+<a id="org97a63c9"></a>
 
-# ## Gudeeds as client
+## Current Status
+
+
+<a id="orgc6c3025"></a>
+
+### ## Gudeeds as client
 
 To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org407b6bb"></a>
+<a id="org881f480"></a>
 
-# ## Next Steps
+### ## Next Steps
 
 **Explore if gamification is a good fit.**
 
@@ -181,3 +214,4 @@ build trust across her neighbors ' relationships.
 
 If booking now is based on trust, will charts and mini-analyticst be
 more efficient to confirming her bookings?
+
