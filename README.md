@@ -1,4 +1,5 @@
 
+# Design, Collaboration, and Good deeds
 
 1.  [Design, Collaboration, and Good deeds](#org8596438)
     1.  [Zeroing in on trust](#orgd29b5bd)
@@ -17,7 +18,6 @@
 
 
 <a id="org8596438"></a>
-
 
 
 **Codeable baseline** What can we (as a group) get done that is out of
