@@ -1,24 +1,39 @@
 
+# Designing for proximity
+
+1.  [Design, Collaboration, and Good deeds](#org8ca8ad6)
+    1.  [# Designing for proximity](#orgfee000c)
+2.  [What are the needs of close neighbors?](#org0e10cd8)
+    1.  [Zeroing in on trust](#org1418d99)
+    2.  [Looking at the Task Business](#org83a2b15)
+    3.  [But how do you know?](#org4ed2dc0)
+3.  [Syncing Up](#orgad5619d)
+    1.  [On the Problem](#org7ec5240)
+    2.  [For the Solution](#orgfb4235a)
+4.  [The Design Work](#org6d6b89e)
+    1.  [Sketching](#org71fc73f)
+    2.  [Wireframes](#org403951d)
+    3.  [What testing taught us](#org027c509)
+5.  [Current Status](#orgd5ddb96)
+    1.  [Gudeeds as client](#orgdc7540d)
+    2.  [Next Steps](#orgbb42470)
+
+
+<a id="org8ca8ad6"></a>
+
 # Design, Collaboration, and Good deeds
 
-1.  [Design, Collaboration, and Good deeds](#org8596438)
-    1.  [Zeroing in on trust](#orgd29b5bd)
-    2.  [Looking at the Task Business](#orgf1ad794)
-    3.  [But how do you know?](#org3393dd0)
-2.  [Syncing Up](#orgf6699a3)
-    1.  [On the Problem](#org2872487)
-    2.  [For the Solution](#orgb5ce5a4)
-3.  [The Design Work](#orgdbbe97a)
-    1.  [Sketching](#org4946708)
-    2.  [Wireframes](#org37d4182)
-    3.  [What testing taught us](#org5c0d041)
-4.  [Current Status](#orgd916cff)
-    1.  [Gudeeds as client](#org8bee282)
-    2.  [Next Steps](#org4e58688)
+
+<a id="orgfee000c"></a>
 
 
-<a id="org8596438"></a>
 
+![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626116205850_Prox+Peek+2021-07-12+13-54.gif)
+
+
+<a id="org0e10cd8"></a>
+
+# What are the needs of close neighbors?
 
 **Codeable baseline** What can we (as a group) get done that is out of
 realm of possibility. Not for lack of skill, but for time and money.
@@ -56,7 +71,7 @@ As we moved towards defining user needs, the image of a milk jug as
 emblematic of ‘in what space' we were trying to accomplish our design
 
 
-<a id="orgd29b5bd"></a>
+<a id="org1418d99"></a>
 
 ## Zeroing in on trust
 
@@ -65,7 +80,7 @@ emblematic of ‘in what space' we were trying to accomplish our design
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="orgf1ad794"></a>
+<a id="org83a2b15"></a>
 
 ## Looking at the Task Business
 
@@ -92,7 +107,7 @@ persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
 
-<a id="org3393dd0"></a>
+<a id="org4ed2dc0"></a>
 
 ## But how do you know?
 
@@ -105,19 +120,19 @@ To maintain growing trust, neighbors in the persona's proximity see
 opportunities to help and add them to their queue.
 
 
-<a id="orgf6699a3"></a>
+<a id="orgad5619d"></a>
 
 # Syncing Up
 
 
-<a id="org2872487"></a>
+<a id="org7ec5240"></a>
 
 ## On the Problem
 
 **Just the stress of asking is enough of a barrier to moving forward.**
 
 
-<a id="orgb5ce5a4"></a>
+<a id="orgfb4235a"></a>
 
 ## For the Solution
 
@@ -130,12 +145,12 @@ appropriate.
 while maybe still busy, she is less stressed out.
 
 
-<a id="orgdbbe97a"></a>
+<a id="org6d6b89e"></a>
 
 # The Design Work
 
 
-<a id="org4946708"></a>
+<a id="org71fc73f"></a>
 
 ## Sketching
 
@@ -145,7 +160,7 @@ while maybe still busy, she is less stressed out.
 'time-crunch.'
 
 
-<a id="org37d4182"></a>
+<a id="org403951d"></a>
 
 ## Wireframes
 
@@ -158,7 +173,7 @@ upcoming week.
 **moving up fi, finding user A, user B.**
 
 
-<a id="org5c0d041"></a>
+<a id="org027c509"></a>
 
 ## What testing taught us
 
@@ -175,12 +190,12 @@ actuallly:**
 likely to book also.
 
 
-<a id="orgd916cff"></a>
+<a id="orgd5ddb96"></a>
 
 # Current Status
 
 
-<a id="org8bee282"></a>
+<a id="orgdc7540d"></a>
 
 ## Gudeeds as client
 
@@ -188,7 +203,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org4e58688"></a>
+<a id="orgbb42470"></a>
 
 ## Next Steps
 
