@@ -1,5 +1,4 @@
 
-
 1.  [Design, Collaboration, and Good deeds](#orgb7704f4)
     1.  [What are the needs of close neighbors?](#org491a984)
         1.  [Zeroing in on trust](#orgdb94b73)
