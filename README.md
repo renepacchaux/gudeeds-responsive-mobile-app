@@ -1,4 +1,4 @@
-# Design, Collaboration, and Good deeds
+
 
 1.  [Design, Collaboration, and Good deeds](#orgb7704f4)
     1.  [What are the needs of close neighbors?](#org491a984)
@@ -18,8 +18,6 @@
 
 
 <a id="orgb7704f4"></a>
-
-# Design, Collaboration, and Good deeds
 
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626116205850_Prox+Peek+2021-07-12+13-54.gif)
 
