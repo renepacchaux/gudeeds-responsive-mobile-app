@@ -1,38 +1,34 @@
+# Designing for proximity
 
-# Designing for proximity 
-
-1.  [Design, Collaboration, and Good deeds](#org51d584f)
-    1.  [What are the needs of close neighbors?](#org6f62261)
-        1.  [Zeroing in on trust](#org2f4776b)
-        2.  [Looking at the Task Business](#orgd5006c0)
-        3.  [But how do you know?](#org5b87375)
-    2.  [Syncing Up](#org9e0fcf7)
-        1.  [On the Problem](#org395bbb8)
-        2.  [For the Solution](#org471c10a)
-    3.  [The Design Work](#org1ff83e3)
-        1.  [Sketching](#org4b32e0e)
-        2.  [Wireframes](#org04baa43)
-        3.  [What testing taught us](#org17d7311)
-    4.  [Current Status](#org0f36972)
-        1.  [Gudeeds as client](#orge01a0b8)
-        2.  [Next Steps](#org439bfa4)
+1.  [Design, Collaboration, and Good deeds](#orga3c9d6f)
+    1.  [The needs of close neighbors](#org90d788e)
+        1.  [Zeroing in on trust](#orgbc84296)
+        2.  [Looking at the Task Business](#orgec47170)
+        3.  [But how do you know?](#orgbc412c3)
+    2.  [Sync loose but direct](#orgef2a523)
+        1.  [On the Problem](#org9f1c2ab)
+        2.  [For the Solution](#org4f4cdd7)
+    3.  [Design work](#orgba6ad44)
+        1.  [Sketching](#org980bd0e)
+        2.  [Wireframes](#org231b19e)
+        3.  [What testing taught us](#org51df1ec)
+    4.  [Current status](#org6f01e1b)
+        1.  [Gudeeds as client](#org4640c38)
+        2.  [Next Steps](#org257bf97)
 
 
-<a id="org51d584f"></a>
+<a id="orga3c9d6f"></a>
 
 # Design, Collaboration, and Good deeds
 
 
-<a id="org6cd49cb"></a>
+
+    ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626116205850_Prox+Peek+2021-07-12+13-54.gif)
 
 
+<a id="org90d788e"></a>
 
-![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626116205850_Prox+Peek+2021-07-12+13-54.gif)
-
-
-<a id="org6f62261"></a>
-
-## What are the needs of close neighbors?
+## The needs of close neighbors
 
 **Codeable baseline** What can we (as a group) get done that is out of
 realm of possibility. Not for lack of skill, but for time and money.
@@ -70,7 +66,7 @@ As we moved towards defining user needs, the image of a milk jug as
 emblematic of ‘in what space' we were trying to accomplish our design
 
 
-<a id="org2f4776b"></a>
+<a id="orgbc84296"></a>
 
 ### Zeroing in on trust
 
@@ -79,7 +75,7 @@ emblematic of ‘in what space' we were trying to accomplish our design
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="orgd5006c0"></a>
+<a id="orgec47170"></a>
 
 ### Looking at the Task Business
 
@@ -106,7 +102,7 @@ persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
 
-<a id="org5b87375"></a>
+<a id="orgbc412c3"></a>
 
 ### But how do you know?
 
@@ -119,19 +115,19 @@ To maintain growing trust, neighbors in the persona's proximity see
 opportunities to help and add them to their queue.
 
 
-<a id="org9e0fcf7"></a>
+<a id="orgef2a523"></a>
 
-## Syncing Up
+## Sync loose but direct
 
 
-<a id="org395bbb8"></a>
+<a id="org9f1c2ab"></a>
 
 ### On the Problem
 
 **Just the stress of asking is enough of a barrier to moving forward.**
 
 
-<a id="org471c10a"></a>
+<a id="org4f4cdd7"></a>
 
 ### For the Solution
 
@@ -144,12 +140,12 @@ appropriate.
 while maybe still busy, she is less stressed out.
 
 
-<a id="org1ff83e3"></a>
+<a id="orgba6ad44"></a>
 
-## The Design Work
+## Design work
 
 
-<a id="org4b32e0e"></a>
+<a id="org980bd0e"></a>
 
 ### Sketching
 
@@ -159,7 +155,7 @@ while maybe still busy, she is less stressed out.
 'time-crunch.'
 
 
-<a id="org04baa43"></a>
+<a id="org231b19e"></a>
 
 ### Wireframes
 
@@ -172,7 +168,7 @@ upcoming week.
 **moving up fi, finding user A, user B.**
 
 
-<a id="org17d7311"></a>
+<a id="org51df1ec"></a>
 
 ### What testing taught us
 
@@ -189,12 +185,12 @@ actuallly:**
 likely to book also.
 
 
-<a id="org0f36972"></a>
+<a id="org6f01e1b"></a>
 
-## Current Status
+## Current status
 
 
-<a id="orge01a0b8"></a>
+<a id="org4640c38"></a>
 
 ### Gudeeds as client
 
@@ -202,7 +198,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org439bfa4"></a>
+<a id="org257bf97"></a>
 
 ### Next Steps
 
