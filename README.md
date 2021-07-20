@@ -1,37 +1,42 @@
-# Designing for proximity
 
-1.  [Design, Collaboration, and Good deeds](#org082b44a)
-    1.  [The needs of close neighbors](#orgd367d68)
-        1.  [Zeroing in on trust](#org232b9a0)
-        2.  [Looking at the Task Business](#orgfc20522)
-        3.  [But how do you know?](#org3b38227)
-    2.  [Sync loose but direct](#org8cbd622)
-        1.  [On the Problem](#orgae48bac)
-        2.  [For the Solution](#org50efc8d)
-    3.  [Design work](#org3d0462f)
-        1.  [Sketching](#org8898ae3)
-        2.  [Wireframes](#org247ebb0)
-        3.  [What testing taught us](#orgebc20ea)
-    4.  [Current status](#orgef7c1c0)
-        1.  [Gudeeds as client](#orgf7f5a36)
-        2.  [Next Steps](#org7d0c34e)
+# Designing for neighbors
+
+1.  [Good deeds Design](#org69d6e95)
+    1.  [The needs of close neighbors](#org14fe7c3)
+        1.  [Zeroing in on trust](#orge758053)
+        2.  [Looking at the Task Business](#org06e2715)
+        3.  [But how do you know?](#org857051b)
+    2.  [Sync loose but direct](#orgecc1015)
+        1.  [On the Problem](#orge701963)
+        2.  [For the Solution](#org36d5a1f)
+    3.  [Design work](#org568a047)
+        1.  [Sketching](#org22be860)
+        2.  [Wireframes](#org42a9eb6)
+        3.  [What testing taught us](#org50141e9)
+    4.  [Current status](#org4139c3a)
+        1.  [Gudeeds as client](#orgcb5534d)
+        2.  [Next Steps](#orgef5a48e)
 
 
-<a id="org082b44a"></a>
+<a id="org69d6e95"></a>
 
-# Design, Collaboration, and Good deeds
+# Good deeds Design
+
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="orgd367d68"></a>
+<a id="org14fe7c3"></a>
 
 ## The needs of close neighbors
 
-**Codeable baseline** What can we (as a group) get done that is out of
-realm of possibility. Not for lack of skill, but for time and money.
-Here, I take my chance to ask any questions about project dream vs
-reality.
+**Can we make it happen?**
+
+We are a team of 4 designers and 4 developers.
+
+What can we (as a group) get done. We had 3 days. Here, I take my chance
+to ask any questions and put them in a form of a persona, our collective
+representation of who the user is.
 
 **Platforms** We called out our assumptions first. Pulling out a laptop at
 a grocery store: certain. Pulling out a phone: yes.
@@ -64,7 +69,7 @@ As we moved towards defining user needs, the image of a milk jug as
 emblematic of ‘in what space' we were trying to accomplish our design
 
 
-<a id="org232b9a0"></a>
+<a id="orge758053"></a>
 
 ### Zeroing in on trust
 
@@ -73,7 +78,7 @@ emblematic of ‘in what space' we were trying to accomplish our design
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="orgfc20522"></a>
+<a id="org06e2715"></a>
 
 ### Looking at the Task Business
 
@@ -100,7 +105,7 @@ persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
 
-<a id="org3b38227"></a>
+<a id="org857051b"></a>
 
 ### But how do you know?
 
@@ -113,7 +118,7 @@ To maintain growing trust, neighbors in the persona's proximity see
 opportunities to help and add them to their queue.
 
 
-<a id="org8cbd622"></a>
+<a id="orgecc1015"></a>
 
 ## Sync loose but direct
 
@@ -127,14 +132,14 @@ Without an initial network, how would confidence translate to favor
 completions? The dev team seemed to ponder out input closely.
 
 
-<a id="orgae48bac"></a>
+<a id="orge701963"></a>
 
 ### On the Problem
 
 **Just the stress of asking is enough of a barrier to moving forward.**
 
 
-<a id="org50efc8d"></a>
+<a id="org36d5a1f"></a>
 
 ### For the Solution
 
@@ -147,12 +152,12 @@ appropriate.
 while maybe still busy, she is less stressed out.
 
 
-<a id="org3d0462f"></a>
+<a id="org568a047"></a>
 
 ## Design work
 
 
-<a id="org8898ae3"></a>
+<a id="org22be860"></a>
 
 ### Sketching
 
@@ -162,7 +167,7 @@ while maybe still busy, she is less stressed out.
 'time-crunch.'
 
 
-<a id="org247ebb0"></a>
+<a id="org42a9eb6"></a>
 
 ### Wireframes
 
@@ -175,7 +180,7 @@ upcoming week.
 **moving up fi, finding user A, user B.**
 
 
-<a id="orgebc20ea"></a>
+<a id="org50141e9"></a>
 
 ### What testing taught us
 
@@ -192,12 +197,12 @@ actuallly:**
 likely to book also.
 
 
-<a id="orgef7c1c0"></a>
+<a id="org4139c3a"></a>
 
 ## Current status
 
 
-<a id="orgf7f5a36"></a>
+<a id="orgcb5534d"></a>
 
 ### Gudeeds as client
 
@@ -205,7 +210,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org7d0c34e"></a>
+<a id="orgef5a48e"></a>
 
 ### Next Steps
 
