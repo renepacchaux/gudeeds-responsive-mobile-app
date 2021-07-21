@@ -203,48 +203,7 @@ out in succession. This is when we put that much to the test.
 
 **Getting answers with the help of two actual people**
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left">Questions</td>
-<td class="org-left">User A</td>
-<td class="org-left">User B</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">--------------------------------------</td>
-</tr>
-
-
-<tr>
-<td class="org-left">-------------------------------</td>
-<td class="org-left">------------------------------------</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Where would you check scheduled todos?</td>
-<td class="org-left">There are two buttons for</td>
-</tr>
-</tbody>
-</table>
-
-this? | That's not what I would have picked. | | | | |
-
-
-<a id="org444c93e"></a>
 
 ### Clear feedback
 
