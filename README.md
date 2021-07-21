@@ -1,34 +1,35 @@
 
 # Designing for neighbors
 
-1.  [Good deeds Design](#org7b13ff2)
-    1.  [The needs of close neighbors](#org2564813)
-        1.  [Zeroing in on trust](#org8dbc4f8)
-        2.  [Looking at the Task Business](#org4ffb63d)
-        3.  [But how do you know?](#org16c0566)
-    2.  [Thin air circle of trust](#org3f6c7f2)
-        1.  [On the Problem](#org14c5f3b)
-        2.  [For the Solution](#org8811bde)
-    3.  [Design work](#org1004644)
-        1.  [Sketching](#org96a9ab3)
-        2.  [Wireframes](#org0d499de)
-        3.  [What testing taught us](#orge8ed8c7)
-    4.  [Current status](#org6bbba77)
-        1.  [Gudeeds as client](#orgd93ab4d)
-        2.  [Next Steps](#orgac69e11)
+1.  [Good deeds Design](#orgc3b104a)
+    1.  [Neighbors at close proximity](#org39ab2ef)
+        1.  [Zeroing in on trust](#org5457c6f)
+        2.  [Looking at the Task Business](#orga0f69b9)
+        3.  [But how do you know?](#org89e755b)
+    2.  [Thin air trust](#orgf5c4731)
+        1.  [On the Problem](#org2c43e08)
+        2.  [For the Solution](#org7313090)
+    3.  [Design work](#orgddd22f5)
+        1.  [Sketching](#orgea29b0b)
+        2.  [Two canvases](#orgc93ee22)
+        3.  [Clear feedback](#org444c93e)
+    4.  [Right now](#org298037a)
+        1.  [Gudeeds as client](#orgbe6ec60)
+        2.  [Next Steps](#org1f4f491)
 
 
-<a id="org7b13ff2"></a>
+<a id="orgc3b104a"></a>
 
 # Good deeds Design
+
 
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org2564813"></a>
+<a id="org39ab2ef"></a>
 
-## The needs of close neighbors
+## Neighbors at close proximity
 
 **Can we make it happen?**
 
@@ -80,7 +81,7 @@ As we moved towards defining user needs, the image of a milk jug as
 emblematic of ‘in what space' we were trying to accomplish our design
 
 
-<a id="org8dbc4f8"></a>
+<a id="org5457c6f"></a>
 
 ### Zeroing in on trust
 
@@ -89,7 +90,7 @@ emblematic of ‘in what space' we were trying to accomplish our design
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org4ffb63d"></a>
+<a id="orga0f69b9"></a>
 
 ### Looking at the Task Business
 
@@ -116,7 +117,7 @@ persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
 
-<a id="org16c0566"></a>
+<a id="org89e755b"></a>
 
 ### But how do you know?
 
@@ -129,9 +130,9 @@ To maintain growing trust, neighbors in the persona's proximity see
 opportunities to help and add them to their queue.
 
 
-<a id="org3f6c7f2"></a>
+<a id="orgf5c4731"></a>
 
-## Thin air circle of trust
+## Thin air trust
 
 Sabrina needs help. She needs to ask for a favor. The gudeeds app needs
 more uptake to be successful. It is my role to ask if something is
@@ -143,14 +144,14 @@ Without an initial network, how would confidence translate to favor
 completions? The dev team seemed to ponder out input closely.
 
 
-<a id="org14c5f3b"></a>
+<a id="org2c43e08"></a>
 
 ### On the Problem
 
 **Just the stress of asking is enough of a barrier to moving forward.**
 
 
-<a id="org8811bde"></a>
+<a id="org7313090"></a>
 
 ### For the Solution
 
@@ -163,12 +164,12 @@ appropriate.
 while maybe still busy, she is less stressed out.
 
 
-<a id="org1004644"></a>
+<a id="orgddd22f5"></a>
 
 ## Design work
 
 
-<a id="org96a9ab3"></a>
+<a id="orgea29b0b"></a>
 
 ### Sketching
 
@@ -178,22 +179,77 @@ while maybe still busy, she is less stressed out.
 'time-crunch.'
 
 
-<a id="org0d499de"></a>
+<a id="orgc93ee22"></a>
 
-### Wireframes
+### Two canvases
 
-**Discussing user A, user B**
+There is the volunteer who participates by completing grocery pickup,
+and other tasks for neighbor. Do we build first for the volunteer, or
+the neighbor?
 
-At the end of her weeks, she sees your life caseload with two children
-diminish while continueing to schedule more help and address her
-upcoming week.
+**Discussing them separately**
 
-**moving up fi, finding user A, user B.**
+Are we talking about the same screen? The actual meeting we had on this
+was short but valuable. The design and engineering agreed that everyone
+would start at the same page one.
+
+We are trying to make sure that an extremely busy person is not spending
+more time learning how to use our app at the end the week. Sabrina, for
+example, may have the app in hand to possibly do the opposite, and take
+on more tasks than usual. We now had our one-pager - a few screens laid
+out in succession. This is when we put that much to the test.
+
+**moving slightly into color**
+
+**Getting answers with the help of two actual people**
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="orge8ed8c7"></a>
+<colgroup>
+<col  class="org-left" />
 
-### What testing taught us
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Questions</td>
+<td class="org-left">User A</td>
+<td class="org-left">User B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">--------------------------------------</td>
+</tr>
+
+
+<tr>
+<td class="org-left">-------------------------------</td>
+<td class="org-left">------------------------------------</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Where would you check scheduled todos?</td>
+<td class="org-left">There are two buttons for</td>
+</tr>
+</tbody>
+</table>
+
+this? | That's not what I would have picked. | | | | |
+
+
+<a id="org444c93e"></a>
+
+### Clear feedback
+
+We easily save time by acting on the right feedback, and make good bets
+on where they are taking us by acting on their clues
 
 **Our initial perception** She prepares for her upcoming week with the
 help of the Gudeeds app volunteer scheduling app.
@@ -208,12 +264,12 @@ actuallly:**
 likely to book also.
 
 
-<a id="org6bbba77"></a>
+<a id="org298037a"></a>
 
-## Current status
+## Right now
 
 
-<a id="orgd93ab4d"></a>
+<a id="orgbe6ec60"></a>
 
 ### Gudeeds as client
 
@@ -221,7 +277,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="orgac69e11"></a>
+<a id="org1f4f491"></a>
 
 ### Next Steps
 
