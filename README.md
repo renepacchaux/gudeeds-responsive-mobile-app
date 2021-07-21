@@ -1,24 +1,24 @@
 
 # Designing for neighbors
 
-1.  [Good deeds Design](#org69d6e95)
-    1.  [The needs of close neighbors](#org14fe7c3)
-        1.  [Zeroing in on trust](#orge758053)
-        2.  [Looking at the Task Business](#org06e2715)
-        3.  [But how do you know?](#org857051b)
-    2.  [Sync loose but direct](#orgecc1015)
-        1.  [On the Problem](#orge701963)
-        2.  [For the Solution](#org36d5a1f)
-    3.  [Design work](#org568a047)
-        1.  [Sketching](#org22be860)
-        2.  [Wireframes](#org42a9eb6)
-        3.  [What testing taught us](#org50141e9)
-    4.  [Current status](#org4139c3a)
-        1.  [Gudeeds as client](#orgcb5534d)
-        2.  [Next Steps](#orgef5a48e)
+1.  [Good deeds Design](#org7b13ff2)
+    1.  [The needs of close neighbors](#org2564813)
+        1.  [Zeroing in on trust](#org8dbc4f8)
+        2.  [Looking at the Task Business](#org4ffb63d)
+        3.  [But how do you know?](#org16c0566)
+    2.  [Thin air circle of trust](#org3f6c7f2)
+        1.  [On the Problem](#org14c5f3b)
+        2.  [For the Solution](#org8811bde)
+    3.  [Design work](#org1004644)
+        1.  [Sketching](#org96a9ab3)
+        2.  [Wireframes](#org0d499de)
+        3.  [What testing taught us](#orge8ed8c7)
+    4.  [Current status](#org6bbba77)
+        1.  [Gudeeds as client](#orgd93ab4d)
+        2.  [Next Steps](#orgac69e11)
 
 
-<a id="org69d6e95"></a>
+<a id="org7b13ff2"></a>
 
 # Good deeds Design
 
@@ -26,7 +26,7 @@
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org14fe7c3"></a>
+<a id="org2564813"></a>
 
 ## The needs of close neighbors
 
@@ -38,21 +38,32 @@ What can we (as a group) get done. We had 3 days. Here, I take my chance
 to ask any questions and put them in a form of a persona, our collective
 representation of who the user is.
 
-**Platforms** We called out our assumptions first. Pulling out a laptop at
-a grocery store: certain. Pulling out a phone: yes.
+**Devices** Our persona we were building, Sabrina, was busy. What sort of
+busy though? One scenario, early at the brainstorm assumptions stage,
+was that at a key moment we would find Sabrina at a compact, busy place
+with kids in tow: the grocery store. Here, it makes sense that she would
+likey be pulling out a phone rather than a laptop at a grocery store.
+Two choices allow us to work with that.
 
 -   Webapp Our work can work for iOS devices, but up to a point. We
     focused on browser based interactions.
 
--   Mobile This desicion affected which design library we would implement
-    for our prototype in short order.
+-   Mobile If we are putting together visuals in a short amount of time,
+    it makes sense that would borrow from a design library. While we did
+    not go with iOS, we knew our first stab at this design would be on the
+    phone. This decision boxed us in a bit, but with the important benefit
+    of allowing us to move forward on the design quickly.
     
     **\* Research
-    \*\*** Other Task Apps
+    \*\*** Other task apps
 
-To keep us from reinventing certain wheels, we make sure we looked at
-what was established en masse for simliar apps. **Business Analysis** The
-commonality is an IRL system of gathering (groceries) in our case.
+Much work has been done for us already if we only look and see what is
+out there. To keep us from doing repetitive work, looked at commonly
+used (but established) features that we would use as pieces of our
+puzzle in building the initial prototypes.
+
+**Common traits** The commonality is an IRL system of gathering groceries
+in our case.
 
 -   **Task Rabbit**
 -   **Amazon (Wholefoods)**
@@ -69,7 +80,7 @@ As we moved towards defining user needs, the image of a milk jug as
 emblematic of ‘in what space' we were trying to accomplish our design
 
 
-<a id="orge758053"></a>
+<a id="org8dbc4f8"></a>
 
 ### Zeroing in on trust
 
@@ -78,7 +89,7 @@ emblematic of ‘in what space' we were trying to accomplish our design
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org06e2715"></a>
+<a id="org4ffb63d"></a>
 
 ### Looking at the Task Business
 
@@ -105,7 +116,7 @@ persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
 
-<a id="org857051b"></a>
+<a id="org16c0566"></a>
 
 ### But how do you know?
 
@@ -118,28 +129,28 @@ To maintain growing trust, neighbors in the persona's proximity see
 opportunities to help and add them to their queue.
 
 
-<a id="orgecc1015"></a>
+<a id="org3f6c7f2"></a>
 
-## Sync loose but direct
+## Thin air circle of trust
 
 Sabrina needs help. She needs to ask for a favor. The gudeeds app needs
 more uptake to be successful. It is my role to ask if something is
-possible from the dev team. “Don' t we need a network in place to gain
-trust? Is that something that can be coded?”
+possible from the dev team. Don' t we need a network in place to gain
+trust? Is that something that can be coded?
 
 The persona add neighbors and they in-turn help her down the line.
 Without an initial network, how would confidence translate to favor
 completions? The dev team seemed to ponder out input closely.
 
 
-<a id="orge701963"></a>
+<a id="org14c5f3b"></a>
 
 ### On the Problem
 
 **Just the stress of asking is enough of a barrier to moving forward.**
 
 
-<a id="org36d5a1f"></a>
+<a id="org8811bde"></a>
 
 ### For the Solution
 
@@ -152,12 +163,12 @@ appropriate.
 while maybe still busy, she is less stressed out.
 
 
-<a id="org568a047"></a>
+<a id="org1004644"></a>
 
 ## Design work
 
 
-<a id="org22be860"></a>
+<a id="org96a9ab3"></a>
 
 ### Sketching
 
@@ -167,7 +178,7 @@ while maybe still busy, she is less stressed out.
 'time-crunch.'
 
 
-<a id="org42a9eb6"></a>
+<a id="org0d499de"></a>
 
 ### Wireframes
 
@@ -180,7 +191,7 @@ upcoming week.
 **moving up fi, finding user A, user B.**
 
 
-<a id="org50141e9"></a>
+<a id="orge8ed8c7"></a>
 
 ### What testing taught us
 
@@ -197,12 +208,12 @@ actuallly:**
 likely to book also.
 
 
-<a id="org4139c3a"></a>
+<a id="org6bbba77"></a>
 
 ## Current status
 
 
-<a id="orgcb5534d"></a>
+<a id="orgd93ab4d"></a>
 
 ### Gudeeds as client
 
@@ -210,7 +221,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="orgef5a48e"></a>
+<a id="orgac69e11"></a>
 
 ### Next Steps
 
