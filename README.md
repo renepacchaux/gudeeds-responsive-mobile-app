@@ -1,32 +1,31 @@
 
 # Designing for neighbors
 
-1.  [Good deeds Design](#org5f6c418)
-    1.  [Neighbors at close proximity](#orgfe685d4)
-        1.  [Zeroing in on trust](#org86b58e6)
-        2.  [Looking at the Task Business](#orgcab4dd7)
-        3.  [But how do you know?](#org389bccf)
-    2.  [Thin air trust](#orgbc4be48)
-        1.  [On the Problem](#orgaa7d328)
-        2.  [For the Solution](#org7ae4649)
-    3.  [Design work](#org10b913b)
-        1.  [Sketching](#orged08391)
-        2.  [Two canvases](#org3cf7f2d)
-        3.  [Clear feedback](#org5f86738)
-    4.  [Right now](#org9076172)
-        1.  [Gudeeds as client](#org1fb3e51)
-        2.  [Next Steps](#org8189384)
+1.  [Good deeds Design](#org3e757a3)
+    1.  [Neighbors at close proximity](#org5c4c63a)
+        1.  [Zeroing in on trust](#orgfaf64dd)
+        2.  [Looking at the Task Business](#org5b6188a)
+        3.  [But how do you know?](#org037e6c7)
+    2.  [Thin air trust](#orgcb8591e)
+        1.  [On the Problem](#org3587a85)
+        2.  [For the Solution](#org733dc15)
+    3.  [Design work](#orgf1d46cc)
+        1.  [Sketching](#org35d25de)
+        2.  [Two canvases](#org1577dbf)
+        3.  [Clear feedback](#orgb650756)
+    4.  [Right now](#orge73fd6e)
+        1.  [Gudeeds as client](#org1096cde)
+        2.  [Next Steps](#orgd28880b)
 
 
-<a id="org5f6c418"></a>
+<a id="org3e757a3"></a>
 
 # Good deeds Design
-
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="orgfe685d4"></a>
+<a id="org5c4c63a"></a>
 
 ## Neighbors at close proximity
 
@@ -34,52 +33,65 @@
 
 We are a team of designers and developers.
 
-We had three days. Here, I take my chance to ask any questions and put
-them in the form of a persona, our collective representation of who the
-user is.
+We had three days. Here, I take my chance to ask any questions about our
+made-up person Sabrina. We all know a Sabrina. She has kids and little
+time. Our Sabrina happens to be a nurse with odd hours.
 
-**Devices** Our persona we were building, early at the brainstorm
-assumptions stage. Here, it makes sense that she would likey be pulling
-out a phone rather than a laptop at a grocery store. Two choices allow
-us to work with that.
+**Devices**
 
--   Webapp Our work can work for iOS devices, but up to a point. We
-    focused on browser-based interactions.
+Our persona was built on a few back-and-forths we had about where we all
+coming from, before we even lay out any assumptions on the table. At
+this stage, it makes sense that we mention a scenario. A possible
+situation would be pulling out a phone rather than a laptop at a grocery
+store. Technically speaking, two foundational choices allow us to work
+with that.
 
--   Mobile We put together visuals in a short amount of time. It makes
-    sense that we would borrow from a design library. We did not go with
-    iOS. We knew our first stab at this design that we would be on the
-    phone. The decision to use Figma's port of Material Design boxed us in
-    a bit. It gave us time, however, to benefit us moving forward on the
-    design quickly.
+-   Webapp
+    
+    Our work can work for iOS devices, but up to a point. We focused on
+    where our use looks use first when they get to our page. We also open
+    up the door to future version that can be opened from a browser on a
+    desktop.
+
+-   Mobile
+    
+    We put together visuals in a short amount of time. It makes sense that
+    we would borrow from a design library. We expanded beyond just
+    designing for Apple products. We knew our first stab at this design
+    that we would be on phone-width, however. The decision to use Figma's
+    port of Material Design boxed us in minimally. It gave us time,
+    however, to benefit us moving forward on designing.
     
     **\* Research
     \*\*** Other task apps
 
 Much work has been done for us already if we only look and see what is
-out there. To keep us from doing repetitive work, looked at commonly
-used (but established) features that we would use as pieces of our
-puzzle in building the initial prototypes.
+out there. To keep us from doing repetitive work, we looked at commonly
+used (but widley established) features that we would use as pieces of
+our puzzle in building the initial prototypes.
 
-**Common traits** The commonality is an IRL system of gathering groceries
-in our case.
+**Common traits** We search for common places people go that are already
+available to perform similar services as the ones like we are looking
+at. In these target roles there is at least someone picking up groceries
+for somebody else.
 
--   **Task Rabbit**
--   **Amazon (Wholefoods)**
--   **Instacart**
+-   Task Rabbit
+-   Amazon (Wholefoods)
+-   Instacart
 
-Our analysis required we break the information down into simliar
-components
+We break the information down to parts. Thise gave us an opportunity to
+pick up more on the best practices side of things over mere features.
 
 -   Cart
 -   Schedule
 -   Sort
 
-As we moved towards defining user needs, the image of a milk jug as
-emblematic of ‘in what space' we were trying to accomplish our design
+As we moved towards defining user needs, the direction we took involved
+more and more interviewees, testers, co-workers and yes, actual
+neighbors.
 
 
-<a id="org86b58e6"></a>
+<a id="orgfaf64dd"></a>
 
 ### Zeroing in on trust
 
@@ -88,15 +100,30 @@ emblematic of ‘in what space' we were trying to accomplish our design
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="orgcab4dd7"></a>
+<a id="org5b6188a"></a>
 
 ### Looking at the Task Business
 
-As the dev team went to design an inital user model in the code, the UX
-Team went to take a mental snapshot of where mental boundaries may help
-guide our priorities. We might need to express them at design handoff.  
-**Business Analysis** While it may be fun to have a ‘karma'-like
-affordance to energize task uptake&#x2026;we do find some priorities:
+As the cross-functional team went to build all the parts that make up a
+virtual person within an app. They are a person with and age and
+location, and task giver or receiver. In the inner workings of Gudeeds,
+the UX Team contributed the moment in time, as seen by the user, that
+qualifies as the point of entry as person who needs a thing. As a UX
+practitioner, I am concerned about not only efficiency but also where
+time spent simply learning to use the app guides our priorities. We were
+building a context with which to handoff though accurately expressing
+the blueprints to the development team.
+
+**Business Analysis** It would be fun to have a ‘karma'-like score. Maybe
+for the backend - a dashboard, maybe. We set this aside because our
+testing gave us an already clear direction and a trending-contribution
+did not make it past the design studio stage.
+
+At judgement time, we were asked thata positive approach to ‘more'
+heirarchy will be beneficial to the app. I come back to this at the
+section on gamification.
+
+To energize task uptake&#x2026;we do find some priorities:
 
 -   Cart
 -   Date
@@ -115,19 +142,20 @@ persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
 
-<a id="org389bccf"></a>
+<a id="org037e6c7"></a>
 
 ### But how do you know?
 
-**Persona**
+**Sabrina**
 
-Sabrina works to raise two children.
+To maintain growing connection the the people around her and in her
+building, neighbors need opportunities to help. We went on the simplify
+this.
 
-To maintain growing trust, neighbors in the persona's proximity see
-opportunities to help and add them to their queue.
+Sabrina also works to raise two children.
 
 
-<a id="orgbc4be48"></a>
+<a id="orgcb8591e"></a>
 
 ## Thin air trust
 
@@ -141,14 +169,21 @@ Without an initial network, how would confidence translate to favor
 completions? The dev team seemed to ponder out input closely.
 
 
-<a id="orgaa7d328"></a>
+<a id="org3587a85"></a>
 
 ### On the Problem
 
+We discovered what we needed and visualized it. Let's set up our
+guardrails voiced in the manner of something we are trying to solve.
+
 **Just the stress of asking is enough of a barrier to moving forward.**
 
+Frustrating, but common. That is what we are banking on. A solid
+direction for the app. The difference between *saying it* and *doing
+it*.
 
-<a id="org7ae4649"></a>
+
+<a id="org733dc15"></a>
 
 ### For the Solution
 
@@ -161,12 +196,12 @@ appropriate.
 While she may be busy, she is less stressed out on this one instance.
 
 
-<a id="org10b913b"></a>
+<a id="orgf1d46cc"></a>
 
 ## Design work
 
 
-<a id="orged08391"></a>
+<a id="org35d25de"></a>
 
 ### Sketching
 
@@ -176,7 +211,7 @@ While she may be busy, she is less stressed out on this one instance.
 'time-crunch.'
 
 
-<a id="org3cf7f2d"></a>
+<a id="org1577dbf"></a>
 
 ### Two canvases
 
@@ -196,12 +231,12 @@ example, may have the app in hand to possibly do the opposite, and take
 on more tasks than usual. We now had our one-pager - a few screens laid
 out in succession. This is when we put that much to the test.
 
-**moving slightly into color**
+M\*oving slightly into color\*
 
 **Getting answers with the help of two actual people**
 
 
-<a id="org5f86738"></a>
+<a id="orgb650756"></a>
 
 ### Clear feedback
 
@@ -221,12 +256,12 @@ actuallly:**
 likely to book also.
 
 
-<a id="org9076172"></a>
+<a id="orge73fd6e"></a>
 
 ## Right now
 
 
-<a id="org1fb3e51"></a>
+<a id="org1096cde"></a>
 
 ### Gudeeds as client
 
@@ -234,7 +269,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org8189384"></a>
+<a id="orgd28880b"></a>
 
 ### Next Steps
 
