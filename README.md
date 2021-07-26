@@ -1,24 +1,23 @@
 # Doing as neighbors do
 
+1.  [Good deeds](#org8d15106)
+    1.  [Comfortable for some](#org1808775)
+        1.  [Zeroing in on trust](#orgdc5a1d9)
+        2.  [Looking at the Task Business](#org83ef879)
+        3.  [But how do you know?](#org92e8cd5)
+    2.  [Thin air trust](#org0d6edf3)
+        1.  [On the Problem](#org245c053)
+        2.  [For the Solution](#org74aac58)
+    3.  [Worthy of display](#orga045b15)
+        1.  [Sketching](#org615f15c)
+        2.  [Two canvases](#orgedfd3b1)
+        3.  [Clear feedback](#org56d7304)
+    4.  [Case for moving forward](#orgc3f35e5)
+        1.  [Gudeeds as client](#orgbf9319e)
+        2.  [Next Steps](#orgd435559)
 
-1.  [Good deeds](#org1952e4d)
-    1.  [Comfortable for some](#org008c024)
-        1.  [Zeroing in on trust](#org533d269)
-        2.  [Looking at the Task Business](#org5bcc865)
-        3.  [But how do you know?](#org6e22806)
-    2.  [Thin air trust](#org4c32061)
-        1.  [On the Problem](#org9f371bd)
-        2.  [For the Solution](#org0b22b10)
-    3.  [Worthy of display](#orga4cbf3e)
-        1.  [Sketching](#org0def0a8)
-        2.  [Two canvases](#orgc2bf46f)
-        3.  [Clear feedback](#org5ab329b)
-    4.  [Case for moving forward](#orgc0e65d4)
-        1.  [Gudeeds as client](#org1859f30)
-        2.  [Next Steps](#orgf9cb9f7)
 
-
-<a id="org1952e4d"></a>
+<a id="org8d15106"></a>
 
 # Good deeds
 
@@ -26,7 +25,7 @@
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org008c024"></a>
+<a id="org1808775"></a>
 
 ## Comfortable for some
 
@@ -94,7 +93,7 @@ more and more interviewees, testers, co-workers, and yes, actual
 neighbors.
 
 
-<a id="org533d269"></a>
+<a id="orgdc5a1d9"></a>
 
 ### Zeroing in on trust
 
@@ -103,7 +102,7 @@ neighbors.
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org5bcc865"></a>
+<a id="org83ef879"></a>
 
 ### Looking at the Task Business
 
@@ -148,7 +147,7 @@ We thought about how we would deliver our work at the final meta
 meeting. We are on our way to delivering it to four groups of 10 people.
 
 
-<a id="org6e22806"></a>
+<a id="org92e8cd5"></a>
 
 ### But how do you know?
 
@@ -161,7 +160,7 @@ this.
 Sabrina also works to raise two children.
 
 
-<a id="org4c32061"></a>
+<a id="org0d6edf3"></a>
 
 ## Thin air trust
 
@@ -178,7 +177,7 @@ The team of engineers seemed to appreciate this problem being voiced at
 our meeting.
 
 
-<a id="org9f371bd"></a>
+<a id="org245c053"></a>
 
 ### On the Problem
 
@@ -192,7 +191,7 @@ direction for the app. The difference between *saying it* and *doing
 it*.
 
 
-<a id="org0b22b10"></a>
+<a id="org74aac58"></a>
 
 ### For the Solution
 
@@ -206,12 +205,12 @@ While she may be busy, we can estimate that in this particular moment,
 she is less stressed out.
 
 
-<a id="orga4cbf3e"></a>
+<a id="orga045b15"></a>
 
 ## Worthy of display
 
 
-<a id="org0def0a8"></a>
+<a id="org615f15c"></a>
 
 ### Sketching
 
@@ -221,7 +220,7 @@ she is less stressed out.
 'time-crunch.'
 
 
-<a id="orgc2bf46f"></a>
+<a id="orgedfd3b1"></a>
 
 ### Two canvases
 
@@ -246,7 +245,7 @@ laid out in succession. This is when we put that much to the test.
 **Getting answers with the help of two actual people**
 
 
-<a id="org5ab329b"></a>
+<a id="org56d7304"></a>
 
 ### Clear feedback
 
@@ -265,12 +264,12 @@ help of the Gudeeds app volunteer scheduling app.
 likely to book also.
 
 
-<a id="orgc0e65d4"></a>
+<a id="orgc3f35e5"></a>
 
 ## Case for moving forward
 
 
-<a id="org1859f30"></a>
+<a id="orgbf9319e"></a>
 
 ### Gudeeds as client
 
@@ -278,7 +277,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="orgf9cb9f7"></a>
+<a id="orgd435559"></a>
 
 ### Next Steps
 
