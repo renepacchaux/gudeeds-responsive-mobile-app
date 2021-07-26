@@ -277,6 +277,5 @@ their app is better at being reliable.
 Sandra just downloaded the Gudeeds app. The app will help build trust
 across her neighbors ' relationships.
 
-If booking now is based on trust, will charts and mini-analyticst be
+If booking now is based on trust, will charts and mini-analytics be
 more efficient to confirming her bookings?
-
