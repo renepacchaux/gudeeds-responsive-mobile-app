@@ -1,40 +1,33 @@
 
 # Doing as neighbors do
 
-1.  [Good deeds](#orgdbb426d)
-    1.  [My role: defining user needs](#org0803b26)
-        1.  [# Comfortable for some](#org6745eaf)
-        2.  [Zeroing in on trust](#org91254d6)
-        3.  [Looking at the Task Business](#org6cfbcb1)
-        4.  [But how do you know?](#org8a89b1f)
-    2.  [Thin air trust](#org6f710c0)
-        1.  [On the Problem](#org36fc72c)
-        2.  [For the Solution](#orgcd13183)
-    3.  [Worthy of display](#orge35a6e8)
-        1.  [Sketching](#org2988332)
-        2.  [Two canvases](#org6d449b7)
-        3.  [Clear feedback](#org423df41)
-    4.  [Case for moving forward](#orgae83313)
-        1.  [Gudeeds as client](#org6f7625a)
-        2.  [Next Steps](#org41b4a9b)
+1.  [Good deeds](#org69e05bd)
+    1.  [Comfortable for some](#orge6a13f9)
+        1.  [Zeroing in on trust](#org4b90ad0)
+        2.  [Looking at the Task Business](#org99bda99)
+        3.  [But how do you know?](#org5b28755)
+    2.  [Thin air trust](#orgdd4dac5)
+        1.  [On the Problem](#orga15eb72)
+        2.  [For the Solution](#org9f061e6)
+    3.  [Worthy of display](#orga2aa1c9)
+        1.  [Sketching](#org4a6f217)
+        2.  [Two canvases](#orgc0cd0b0)
+        3.  [Clear feedback](#orgdae0278)
+    4.  [Case for moving forward](#orgc9611ce)
+        1.  [Gudeeds as client](#org33f29bc)
+        2.  [Next Steps](#org4e01654)
 
 
-<a id="orgdbb426d"></a>
+<a id="org69e05bd"></a>
 
 # Good deeds
-
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org0803b26"></a>
+<a id="orge6a13f9"></a>
 
-## My role: defining user needs
-
-
-<a id="org6745eaf"></a>
-
-### # Comfortable for some
+## Comfortable for some
 
 **Can we make it happen?**
 
@@ -98,7 +91,7 @@ more and more interviewees, testers, co-workers, and yes, actual
 neighbors.
 
 
-<a id="org91254d6"></a>
+<a id="org4b90ad0"></a>
 
 ### Zeroing in on trust
 
@@ -107,7 +100,7 @@ neighbors.
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org6cfbcb1"></a>
+<a id="org99bda99"></a>
 
 ### Looking at the Task Business
 
@@ -144,12 +137,12 @@ Who does she pay back first?
 
 A level of trust is required
 
-Our team, starts to figure out and document why we representative
+Our team, starts to figure out and document why our representative
 persona felt that way. The seams are still closing in. We are on our way
 to delivering it to four groups of 10 people.
 
 
-<a id="org8a89b1f"></a>
+<a id="org5b28755"></a>
 
 ### But how do you know?
 
@@ -162,7 +155,7 @@ this.
 Sabrina also works to raise two children.
 
 
-<a id="org6f710c0"></a>
+<a id="orgdd4dac5"></a>
 
 ## Thin air trust
 
@@ -171,12 +164,12 @@ more uptake to be successful. It is my role to ask if something is
 possible from the dev team. Don't we need a network in place to gain
 trust? Is that something that can be coded?
 
-The persona adds neighbors. They in turn help *her* down the line.
+The persona adds neighbors. They, in turn, help *her* down the line.
 Without an initial network, how would confidence translate to favor
 completions? The dev team seemed to ponder our input closely.
 
 
-<a id="org36fc72c"></a>
+<a id="orga15eb72"></a>
 
 ### On the Problem
 
@@ -185,12 +178,12 @@ guardrails voiced in the manner of something we are trying to solve.
 
 **Just the stress of asking is enough of a barrier to moving forward.**
 
-Frustrating, but common. That is what we are banking on. A solid
+Frustrating, but exprected. That is what we are banking on. A solid
 direction for the app. The difference between *saying it* and *doing
 it*.
 
 
-<a id="orgcd13183"></a>
+<a id="org9f061e6"></a>
 
 ### For the Solution
 
@@ -203,12 +196,12 @@ appropriate.
 While she may be busy, she is less stressed out on this one instance.
 
 
-<a id="orge35a6e8"></a>
+<a id="orga2aa1c9"></a>
 
 ## Worthy of display
 
 
-<a id="org2988332"></a>
+<a id="org4a6f217"></a>
 
 ### Sketching
 
@@ -218,43 +211,42 @@ While she may be busy, she is less stressed out on this one instance.
 'time-crunch.'
 
 
-<a id="org6d449b7"></a>
+<a id="orgc0cd0b0"></a>
 
 ### Two canvases
 
-There is the volunteer who participates by completing grocery pickup,
-and other tasks for neighbor. Do we build first for the volunteer, or
+There is the volunteer who participates by completing grocery pickup and
+other tasks for the neighbors. Do we build first for the volunteer or
 the neighbor?
 
 **Discussing them separately**
 
 Are we talking about the same screen? The actual meeting we had on this
 was short but valuable. The design and engineering agreed that everyone
-would start at the same page one.
+would start at the same page.
 
 We are trying to make sure that an extremely busy person is not spending
-more time learning how to use our app at the end the week. Sabrina, for
-example, may have the app in hand to possibly do the opposite, and take
-on more tasks than usual. We now had our one-pager - a few screens laid
-out in succession. This is when we put that much to the test.
+more time learning how to use our app at the end of the week. Sabrina,
+for example, may have the app in hand to possibly do the opposite and
+take on more tasks than usual. We now had our one-pager - a few screens
+laid out in succession. This is when we put that much to the test.
 
-M\*oving slightly into color\*
+**Moving slightly into color**
 
 **Getting answers with the help of two actual people**
 
 
-<a id="org423df41"></a>
+<a id="orgdae0278"></a>
 
 ### Clear feedback
 
-We easily save time by acting on the right feedback, and make good bets
-on where they are taking us by acting on their clues
+We easily save time by acting on the right feedback and making good
+bets. They lead us when acting on their clues.
 
 **Our initial perception** She prepares for her upcoming week with the
 help of the Gudeeds app volunteer scheduling app.
 
-**Our perception of obvious placement of a primary button, was
-actuallly:**
+**Primary action button perception**
 
 -   Confusing
 -   Redundant
@@ -263,12 +255,12 @@ actuallly:**
 likely to book also.
 
 
-<a id="orgae83313"></a>
+<a id="orgc9611ce"></a>
 
 ## Case for moving forward
 
 
-<a id="org6f7625a"></a>
+<a id="org33f29bc"></a>
 
 ### Gudeeds as client
 
@@ -276,7 +268,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org41b4a9b"></a>
+<a id="org4e01654"></a>
 
 ### Next Steps
 
