@@ -1,38 +1,37 @@
 # Doing as neighbors do
 
 
-1.  [Good deeds](#orgd6ba36b)
-    1.  [I am a UX Designer.](#orgff111ca)
-        1.  [# Comfortable for some](#org38e1ca6)
-        2.  [Zeroing in on trust](#org6fc7419)
-        3.  [Looking at the Task Business](#org12cf654)
-        4.  [But how do you know?](#orgea4bc8d)
-    2.  [Thin air trust](#org192b7fd)
-        1.  [On the Problem](#org0d0055d)
-        2.  [For the Solution](#org703e9a6)
-    3.  [Worthy of display](#org710768d)
-        1.  [Sketching](#org131f684)
-        2.  [Two canvases](#org57f0bc0)
-        3.  [Clear feedback](#orge0d2046)
-    4.  [Case for moving forward](#orgf1409d7)
-        1.  [Gudeeds as client](#org9910547)
-        2.  [Next Steps](#org75fd08a)
+1.  [Good deeds](#org70521f3)
+    1.  [My role defining user needs](#orgadd68b8)
+        1.  [# Comfortable for some](#org25a6721)
+        2.  [Zeroing in on trust](#org0bfde22)
+        3.  [Looking at the Task Business](#org69344e3)
+        4.  [But how do you know?](#orgd5191db)
+    2.  [Thin air trust](#orgeaff8f6)
+        1.  [On the Problem](#org8844d7f)
+        2.  [For the Solution](#orgd2b50ed)
+    3.  [Worthy of display](#org637296a)
+        1.  [Sketching](#orgdc9dace)
+        2.  [Two canvases](#org387effb)
+        3.  [Clear feedback](#org71112d8)
+    4.  [Case for moving forward](#org619e415)
+        1.  [Gudeeds as client](#org3b50e45)
+        2.  [Next Steps](#orgdad327a)
 
 
-<a id="orgd6ba36b"></a>
+<a id="org70521f3"></a>
 
 # Good deeds
-
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="orgff111ca"></a>
+<a id="orgadd68b8"></a>
 
-## I am a UX Designer.
+## My role defining user needs
 
 
-<a id="org38e1ca6"></a>
+<a id="org25a6721"></a>
 
 ### # Comfortable for some
 
@@ -46,41 +45,40 @@ time. Our Sabrina happens to be a nurse with odd hours.
 
 **Devices**
 
-Our persona was built on a few back-and-forths we had about where we all
-coming from before we even lay out any assumptions on the table. At this
-stage, it makes sense that we mention a scenario. A possible situation
-would be pulling out a phone rather than a laptop at a grocery store.
-Technically speaking, two foundational choices allow us to work with
-that.
+Our persona was built on a few back-and-forths we had about our mindset.
+Where were we all coming from before we even list and describe any
+assumptions on the table? At this stage, it makes sense that we mention
+a scenario. A possible situation would be pulling out a phone rather
+than a laptop at a grocery store. Technically speaking, two foundational
+choices allow us to work with that.
 
 -   Webapp
     
     Our work can work for iOS devices, but up to a point. We focused on
-    where our use looks use first when they get to our page. We also open
-    up the door to future version that can be opened from a browser on a
-    desktop.
+    where our user looks first when they get to our page. We open the door
+    to future versions that can be opened from a browser on a desktop.
 
 -   Mobile
     
-    We put together visuals in a short amount of time. It makes sense that
-    we would borrow from a design library. We expanded beyond just
-    designing for Apple products. We knew our first stab at this design
-    that we would be on phone-width, however. The decision to use Figma's
-    port of Material Design boxed us in minimally. It gave us time,
-    however, to benefit us moving forward on designing.
+    We put together visuals in a short amount of time. It makes sense. We
+    would borrow from a design library. We expanded our minds beyond
+    designing for iOS products. We knew our first stab at this design
+    would be on a phone-width. The decision to use Figma's port of
+    Material Design boxed us in minimally. It gave us time, however, to
+    benefit us moving forward on designing.
     
     **\* Research
     \*\*** Other task apps
 
 Much work has been done for us already if we only look and see what is
 out there. To keep us from doing repetitive work, we looked at commonly
-used (but widley established) features that we would use as pieces of
+used (but widely established) features that we would use as pieces of
 our puzzle in building the initial prototypes.
 
-**Common traits** We search for common places people go that are already
-available to perform similar services as the ones like we are looking
-at. In these target roles there is at least someone picking up groceries
-for somebody else.
+**Common traits** We search for well-defined places on the internet where
+people go. What is already available to perform similar services like
+the ones like we are looking at? In these target roles there is at least
+someone picking up groceries for somebody else.
 
 -   Task Rabbit
 -   Amazon (Wholefoods)
@@ -98,7 +96,7 @@ more and more interviewees, testers, co-workers and yes, actual
 neighbors.
 
 
-<a id="org6fc7419"></a>
+<a id="org0bfde22"></a>
 
 ### Zeroing in on trust
 
@@ -107,7 +105,7 @@ neighbors.
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org12cf654"></a>
+<a id="org69344e3"></a>
 
 ### Looking at the Task Business
 
@@ -149,7 +147,7 @@ persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
 
-<a id="orgea4bc8d"></a>
+<a id="orgd5191db"></a>
 
 ### But how do you know?
 
@@ -162,7 +160,7 @@ this.
 Sabrina also works to raise two children.
 
 
-<a id="org192b7fd"></a>
+<a id="orgeaff8f6"></a>
 
 ## Thin air trust
 
@@ -176,7 +174,7 @@ Without an initial network, how would confidence translate to favor
 completions? The dev team seemed to ponder out input closely.
 
 
-<a id="org0d0055d"></a>
+<a id="org8844d7f"></a>
 
 ### On the Problem
 
@@ -190,7 +188,7 @@ direction for the app. The difference between *saying it* and *doing
 it*.
 
 
-<a id="org703e9a6"></a>
+<a id="orgd2b50ed"></a>
 
 ### For the Solution
 
@@ -203,12 +201,12 @@ appropriate.
 While she may be busy, she is less stressed out on this one instance.
 
 
-<a id="org710768d"></a>
+<a id="org637296a"></a>
 
 ## Worthy of display
 
 
-<a id="org131f684"></a>
+<a id="orgdc9dace"></a>
 
 ### Sketching
 
@@ -218,7 +216,7 @@ While she may be busy, she is less stressed out on this one instance.
 'time-crunch.'
 
 
-<a id="org57f0bc0"></a>
+<a id="org387effb"></a>
 
 ### Two canvases
 
@@ -243,7 +241,7 @@ M\*oving slightly into color\*
 **Getting answers with the help of two actual people**
 
 
-<a id="orge0d2046"></a>
+<a id="org71112d8"></a>
 
 ### Clear feedback
 
@@ -263,12 +261,12 @@ actuallly:**
 likely to book also.
 
 
-<a id="orgf1409d7"></a>
+<a id="org619e415"></a>
 
 ## Case for moving forward
 
 
-<a id="org9910547"></a>
+<a id="org3b50e45"></a>
 
 ### Gudeeds as client
 
@@ -276,7 +274,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org75fd08a"></a>
+<a id="orgdad327a"></a>
 
 ### Next Steps
 
@@ -287,3 +285,4 @@ across her neighbors ' relationships.
 
 If booking now is based on trust, will charts and mini-analyticst be
 more efficient to confirming her bookings?
+
