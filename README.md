@@ -287,4 +287,3 @@ across her neighbors ' relationships.
 
 If booking now is based on trust, will charts and mini-analyticst be
 more efficient to confirming her bookings?
-
