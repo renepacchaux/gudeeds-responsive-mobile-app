@@ -172,8 +172,8 @@ trust? Is that something that can be coded?
 
 The persona adds neighbors. They, in turn, help *her* down the line.
 Without an initial network, what would lead Sabrina to believe that this
-app can be of any help at the time the downloads it? Do we make it fun
-like a game or do we consider putting it in the ‘maybe pile' for now?
+app can be of any help at the time she downloads it? Do we make it fun
+like a game, or do we consider putting it in the ‘maybe pile' for now?
 The team of engineers seemed to appreciate this problem being voiced at
 our meeting.
 
@@ -289,4 +289,3 @@ across her neighbors ' relationships.
 
 If booking now is based on trust, will charts and mini-analytics be more
 efficient to confirming her bookings?
-
