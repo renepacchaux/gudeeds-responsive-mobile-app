@@ -1,50 +1,57 @@
-
-# Designing for neighbors
-
-1.  [Good deeds Design](#org3e757a3)
-    1.  [Neighbors at close proximity](#org5c4c63a)
-        1.  [Zeroing in on trust](#orgfaf64dd)
-        2.  [Looking at the Task Business](#org5b6188a)
-        3.  [But how do you know?](#org037e6c7)
-    2.  [Thin air trust](#orgcb8591e)
-        1.  [On the Problem](#org3587a85)
-        2.  [For the Solution](#org733dc15)
-    3.  [Design work](#orgf1d46cc)
-        1.  [Sketching](#org35d25de)
-        2.  [Two canvases](#org1577dbf)
-        3.  [Clear feedback](#orgb650756)
-    4.  [Right now](#orge73fd6e)
-        1.  [Gudeeds as client](#org1096cde)
-        2.  [Next Steps](#orgd28880b)
+# Doing as neighbors do
 
 
-<a id="org3e757a3"></a>
+1.  [Good deeds](#orgd6ba36b)
+    1.  [I am a UX Designer.](#orgff111ca)
+        1.  [# Comfortable for some](#org38e1ca6)
+        2.  [Zeroing in on trust](#org6fc7419)
+        3.  [Looking at the Task Business](#org12cf654)
+        4.  [But how do you know?](#orgea4bc8d)
+    2.  [Thin air trust](#org192b7fd)
+        1.  [On the Problem](#org0d0055d)
+        2.  [For the Solution](#org703e9a6)
+    3.  [Worthy of display](#org710768d)
+        1.  [Sketching](#org131f684)
+        2.  [Two canvases](#org57f0bc0)
+        3.  [Clear feedback](#orge0d2046)
+    4.  [Case for moving forward](#orgf1409d7)
+        1.  [Gudeeds as client](#org9910547)
+        2.  [Next Steps](#org75fd08a)
 
-# Good deeds Design
+
+<a id="orgd6ba36b"></a>
+
+# Good deeds
+
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org5c4c63a"></a>
+<a id="orgff111ca"></a>
 
-## Neighbors at close proximity
+## I am a UX Designer.
+
+
+<a id="org38e1ca6"></a>
+
+### # Comfortable for some
 
 **Can we make it happen?**
 
 We are a team of designers and developers.
 
 We had three days. Here, I take my chance to ask any questions about our
-made-up person Sabrina. We all know a Sabrina. She has kids and little
+made-up person, Sabrina. We all know a Sabrina. She has kids and little
 time. Our Sabrina happens to be a nurse with odd hours.
 
 **Devices**
 
 Our persona was built on a few back-and-forths we had about where we all
-coming from, before we even lay out any assumptions on the table. At
-this stage, it makes sense that we mention a scenario. A possible
-situation would be pulling out a phone rather than a laptop at a grocery
-store. Technically speaking, two foundational choices allow us to work
-with that.
+coming from before we even lay out any assumptions on the table. At this
+stage, it makes sense that we mention a scenario. A possible situation
+would be pulling out a phone rather than a laptop at a grocery store.
+Technically speaking, two foundational choices allow us to work with
+that.
 
 -   Webapp
     
@@ -91,7 +98,7 @@ more and more interviewees, testers, co-workers and yes, actual
 neighbors.
 
 
-<a id="orgfaf64dd"></a>
+<a id="org6fc7419"></a>
 
 ### Zeroing in on trust
 
@@ -100,7 +107,7 @@ neighbors.
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org5b6188a"></a>
+<a id="org12cf654"></a>
 
 ### Looking at the Task Business
 
@@ -142,7 +149,7 @@ persona felt that way, The seams are still closing in on their way to
 delivering it to four groups of 10 people.
 
 
-<a id="org037e6c7"></a>
+<a id="orgea4bc8d"></a>
 
 ### But how do you know?
 
@@ -155,7 +162,7 @@ this.
 Sabrina also works to raise two children.
 
 
-<a id="orgcb8591e"></a>
+<a id="org192b7fd"></a>
 
 ## Thin air trust
 
@@ -169,7 +176,7 @@ Without an initial network, how would confidence translate to favor
 completions? The dev team seemed to ponder out input closely.
 
 
-<a id="org3587a85"></a>
+<a id="org0d0055d"></a>
 
 ### On the Problem
 
@@ -183,7 +190,7 @@ direction for the app. The difference between *saying it* and *doing
 it*.
 
 
-<a id="org733dc15"></a>
+<a id="org703e9a6"></a>
 
 ### For the Solution
 
@@ -196,12 +203,12 @@ appropriate.
 While she may be busy, she is less stressed out on this one instance.
 
 
-<a id="orgf1d46cc"></a>
+<a id="org710768d"></a>
 
-## Design work
+## Worthy of display
 
 
-<a id="org35d25de"></a>
+<a id="org131f684"></a>
 
 ### Sketching
 
@@ -211,7 +218,7 @@ While she may be busy, she is less stressed out on this one instance.
 'time-crunch.'
 
 
-<a id="org1577dbf"></a>
+<a id="org57f0bc0"></a>
 
 ### Two canvases
 
@@ -236,7 +243,7 @@ M\*oving slightly into color\*
 **Getting answers with the help of two actual people**
 
 
-<a id="orgb650756"></a>
+<a id="orge0d2046"></a>
 
 ### Clear feedback
 
@@ -256,12 +263,12 @@ actuallly:**
 likely to book also.
 
 
-<a id="orge73fd6e"></a>
+<a id="orgf1409d7"></a>
 
-## Right now
+## Case for moving forward
 
 
-<a id="org1096cde"></a>
+<a id="org9910547"></a>
 
 ### Gudeeds as client
 
@@ -269,7 +276,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="orgd28880b"></a>
+<a id="org75fd08a"></a>
 
 ### Next Steps
 
