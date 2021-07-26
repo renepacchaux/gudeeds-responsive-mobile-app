@@ -1,31 +1,32 @@
-
 # Doing as neighbors do
 
-1.  [Good deeds](#org69e05bd)
-    1.  [Comfortable for some](#orge6a13f9)
-        1.  [Zeroing in on trust](#org4b90ad0)
-        2.  [Looking at the Task Business](#org99bda99)
-        3.  [But how do you know?](#org5b28755)
-    2.  [Thin air trust](#orgdd4dac5)
-        1.  [On the Problem](#orga15eb72)
-        2.  [For the Solution](#org9f061e6)
-    3.  [Worthy of display](#orga2aa1c9)
-        1.  [Sketching](#org4a6f217)
-        2.  [Two canvases](#orgc0cd0b0)
-        3.  [Clear feedback](#orgdae0278)
-    4.  [Case for moving forward](#orgc9611ce)
-        1.  [Gudeeds as client](#org33f29bc)
-        2.  [Next Steps](#org4e01654)
+
+1.  [Good deeds](#org1952e4d)
+    1.  [Comfortable for some](#org008c024)
+        1.  [Zeroing in on trust](#org533d269)
+        2.  [Looking at the Task Business](#org5bcc865)
+        3.  [But how do you know?](#org6e22806)
+    2.  [Thin air trust](#org4c32061)
+        1.  [On the Problem](#org9f371bd)
+        2.  [For the Solution](#org0b22b10)
+    3.  [Worthy of display](#orga4cbf3e)
+        1.  [Sketching](#org0def0a8)
+        2.  [Two canvases](#orgc2bf46f)
+        3.  [Clear feedback](#org5ab329b)
+    4.  [Case for moving forward](#orgc0e65d4)
+        1.  [Gudeeds as client](#org1859f30)
+        2.  [Next Steps](#orgf9cb9f7)
 
 
-<a id="org69e05bd"></a>
+<a id="org1952e4d"></a>
 
 # Good deeds
+
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="orge6a13f9"></a>
+<a id="org008c024"></a>
 
 ## Comfortable for some
 
@@ -57,9 +58,11 @@ choices allow us to work with that.
     We put together visuals in a short amount of time. It makes sense. We
     would borrow from a design library. We expanded our minds beyond
     designing for iOS products. We knew our first stab at this design
-    would be on a phone width. The decision to use Figma's port of
-    Material Design boxed us in minimally. It gave us time, however, to
-    benefit us moving forward on designing.
+    would be on a phone width. The decision to use [Figma's Material
+    Design UI kit]
+    (<https://www.figma.com/community/file/880534892514982400>) boxed us in
+    minimally. It gave us time, however, to benefit us moving forward on
+    designing.
     
     **\* Research
     \*\*** Other task apps
@@ -91,7 +94,7 @@ more and more interviewees, testers, co-workers, and yes, actual
 neighbors.
 
 
-<a id="org4b90ad0"></a>
+<a id="org533d269"></a>
 
 ### Zeroing in on trust
 
@@ -100,7 +103,7 @@ neighbors.
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org99bda99"></a>
+<a id="org5bcc865"></a>
 
 ### Looking at the Task Business
 
@@ -123,7 +126,8 @@ At judgment time, we were asked that a positive approach to ‘more'
 hierarchy will be beneficial to the app. I come back to this at the
 section on gamification.
 
-To energize task uptake we find some priorities:
+There are symbols or items people go to first, or expect. These allow
+the user to work fast:
 
 -   Cart
 -   Date
@@ -135,14 +139,16 @@ Who does she pay back first?
 
 **Closeness of Volunteers and Trust Themes**
 
-A level of trust is required
+**First to sign up**
 
-Our team, starts to figure out and document why our representative
-persona felt that way. The seams are still closing in. We are on our way
-to delivering it to four groups of 10 people.
+Our team, starts to figure out and document why a person in Sabrina's
+shoes would have felt the way she did.
+
+We thought about how we would deliver our work at the final meta
+meeting. We are on our way to delivering it to four groups of 10 people.
 
 
-<a id="org5b28755"></a>
+<a id="org6e22806"></a>
 
 ### But how do you know?
 
@@ -155,7 +161,7 @@ this.
 Sabrina also works to raise two children.
 
 
-<a id="orgdd4dac5"></a>
+<a id="org4c32061"></a>
 
 ## Thin air trust
 
@@ -165,11 +171,14 @@ possible from the dev team. Don't we need a network in place to gain
 trust? Is that something that can be coded?
 
 The persona adds neighbors. They, in turn, help *her* down the line.
-Without an initial network, how would confidence translate to favor
-completions? The dev team seemed to ponder our input closely.
+Without an initial network, what would lead Sabrina to believe that this
+app can be of any help at the time the downloads it? Do we make it fun
+like a game or do we consider putting it in the ‘maybe pile' for now?
+The team of engineers seemed to appreciate this problem being voiced at
+our meeting.
 
 
-<a id="orga15eb72"></a>
+<a id="org9f371bd"></a>
 
 ### On the Problem
 
@@ -178,12 +187,12 @@ guardrails voiced in the manner of something we are trying to solve.
 
 **Just the stress of asking is enough of a barrier to moving forward.**
 
-Frustrating, but exprected. That is what we are banking on. A solid
+Frustrating, but expected. That is what we are banking on. A solid
 direction for the app. The difference between *saying it* and *doing
 it*.
 
 
-<a id="org9f061e6"></a>
+<a id="org0b22b10"></a>
 
 ### For the Solution
 
@@ -193,15 +202,16 @@ Their offers of help go to Sabrina, where if she wants, she can approve
 or deny based on her original request, focusing on neighbors she deems
 appropriate.
 
-While she may be busy, she is less stressed out on this one instance.
+While she may be busy, we can estimate that in this particular moment,
+she is less stressed out.
 
 
-<a id="orga2aa1c9"></a>
+<a id="orga4cbf3e"></a>
 
 ## Worthy of display
 
 
-<a id="org4a6f217"></a>
+<a id="org0def0a8"></a>
 
 ### Sketching
 
@@ -211,7 +221,7 @@ While she may be busy, she is less stressed out on this one instance.
 'time-crunch.'
 
 
-<a id="orgc0cd0b0"></a>
+<a id="orgc2bf46f"></a>
 
 ### Two canvases
 
@@ -236,7 +246,7 @@ laid out in succession. This is when we put that much to the test.
 **Getting answers with the help of two actual people**
 
 
-<a id="orgdae0278"></a>
+<a id="org5ab329b"></a>
 
 ### Clear feedback
 
@@ -255,12 +265,12 @@ help of the Gudeeds app volunteer scheduling app.
 likely to book also.
 
 
-<a id="orgc9611ce"></a>
+<a id="orgc0e65d4"></a>
 
 ## Case for moving forward
 
 
-<a id="org33f29bc"></a>
+<a id="org1859f30"></a>
 
 ### Gudeeds as client
 
@@ -268,7 +278,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org4e01654"></a>
+<a id="orgf9cb9f7"></a>
 
 ### Next Steps
 
@@ -277,5 +287,6 @@ their app is better at being reliable.
 Sandra just downloaded the Gudeeds app. The app will help build trust
 across her neighbors ' relationships.
 
-If booking now is based on trust, will charts and mini-analytics be
-more efficient to confirming her bookings?
+If booking now is based on trust, will charts and mini-analytics be more
+efficient to confirming her bookings?
+
