@@ -24,7 +24,6 @@
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
-
 <a id="org1808775"></a>
 
 ## Comfortable for some
