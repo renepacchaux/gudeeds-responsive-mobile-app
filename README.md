@@ -1,31 +1,31 @@
 # Doing as neighbors do
 
+1.  [Good deeds](#orgd4059b6)
+    1.  [Comfortable for some](#orgd41d6b3)
+        1.  [Zeroing in on trust](#orgefb15cd)
+        2.  [Looking at the Task Business](#org554c206)
+        3.  [But how do you know?](#org66cf409)
+    2.  [Thin air trust](#org98eaf38)
+        1.  [On the Problem](#org1fe7872)
+        2.  [For the Solution](#org0dd46f0)
+    3.  [Worthy of display](#orga2050a9)
+        1.  [Sketching](#org79dcd1d)
+        2.  [Two canvases](#orgafdb252)
+        3.  [Clear feedback](#orge5b7bbe)
+    4.  [Case for moving forward](#orgc596705)
+        1.  [Gudeeds as client](#org06beb76)
+        2.  [Next Steps](#org8c57778)
 
-1.  [Good deeds](#orgcc5e6ce)
-    1.  [Comfortable for some](#orgcc06589)
-        1.  [Zeroing in on trust](#orgd454ad3)
-        2.  [Looking at the Task Business](#orgf89527b)
-        3.  [But how do you know?](#orgfc64eab)
-    2.  [Thin air trust](#org0a52a8a)
-        1.  [On the Problem](#orgcdc7a7e)
-        2.  [For the Solution](#org8d43ce7)
-    3.  [Worthy of display](#org94502c1)
-        1.  [Sketching](#org81bae78)
-        2.  [Two canvases](#org5299846)
-        3.  [Clear feedback](#orgc40bf64)
-    4.  [Case for moving forward](#orgcfa9fc7)
-        1.  [Gudeeds as client](#orga705a04)
-        2.  [Next Steps](#orgfca1e00)
 
-
-<a id="orgcc5e6ce"></a>
+<a id="orgd4059b6"></a>
 
 # Good deeds
+
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="orgcc06589"></a>
+<a id="orgd41d6b3"></a>
 
 ## Comfortable for some
 
@@ -80,7 +80,7 @@ somebody else.
 -   Amazon (Wholefoods)
 -   Instacart
 
-We break the information down into digestable parts. This gave us an
+We break the information down into digestible parts. This gave us an
 opportunity to pick up more on the best practices side of things over
 mere features.
 
@@ -93,7 +93,7 @@ more and more interviewees, testers, co-workers, and yes, actual
 neighbors.
 
 
-<a id="orgd454ad3"></a>
+<a id="orgefb15cd"></a>
 
 ### Zeroing in on trust
 
@@ -102,7 +102,7 @@ neighbors.
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="orgf89527b"></a>
+<a id="org554c206"></a>
 
 ### Looking at the Task Business
 
@@ -113,8 +113,8 @@ the UX Team contributed the moment in time, as seen by the user, that
 qualifies as the point of entry as a person who needs a thing. As a UX
 practitioner, I am concerned about efficiency and where time spent
 simply learning to use the app guides our priorities. We were building a
-context with which to hand off though accurately expressing the
-blueprints to the development team.
+context with which to hand off and accurately express the blueprints to
+the development team.
 
 **Business Analysis** It would be fun to have a ‘karma'-like score. Maybe
 for the backend - a dashboard, maybe. We set this aside because our
@@ -125,7 +125,7 @@ At judgment time, we were asked that a positive approach to ‘more'
 hierarchy will be beneficial to the app. I come back to this at the
 section on gamification.
 
-There are symbols or items people go to first, or expect. These allow
+There are symbols or items people expect and go to first. These allow
 the user to work fast:
 
 -   Cart
@@ -147,7 +147,7 @@ We thought about how we would deliver our work at the final meta
 meeting. We are on our way to delivering it to four groups of 10 people.
 
 
-<a id="orgfc64eab"></a>
+<a id="org66cf409"></a>
 
 ### But how do you know?
 
@@ -160,7 +160,7 @@ this.
 Sabrina also works to raise two children.
 
 
-<a id="org0a52a8a"></a>
+<a id="org98eaf38"></a>
 
 ## Thin air trust
 
@@ -177,7 +177,7 @@ The team of engineers seemed to appreciate this problem being voiced at
 our meeting.
 
 
-<a id="orgcdc7a7e"></a>
+<a id="org1fe7872"></a>
 
 ### On the Problem
 
@@ -191,7 +191,7 @@ direction for the app. The difference between *saying it* and *doing
 it*.
 
 
-<a id="org8d43ce7"></a>
+<a id="org0dd46f0"></a>
 
 ### For the Solution
 
@@ -201,16 +201,16 @@ Their offers of help go to Sabrina, where if she wants, she can approve
 or deny based on her original request, focusing on neighbors she deems
 appropriate.
 
-While she may be busy, we can estimate that in this particular moment,
+While she may be busy, we can estimate that at this particular moment,
 she is less stressed out.
 
 
-<a id="org94502c1"></a>
+<a id="orga2050a9"></a>
 
 ## Worthy of display
 
 
-<a id="org81bae78"></a>
+<a id="org79dcd1d"></a>
 
 ### Sketching
 
@@ -220,7 +220,7 @@ she is less stressed out.
 'time-crunch.'
 
 
-<a id="org5299846"></a>
+<a id="orgafdb252"></a>
 
 ### Two canvases
 
@@ -232,7 +232,7 @@ the neighbor?
 
 Are we talking about the same screen? The actual meeting we had on this
 was short but valuable. The design and engineering agreed that everyone
-would start at the same page.
+would start on the same page.
 
 We are trying to make sure that an extremely busy person is not spending
 more time learning how to use our app at the end of the week. Sabrina,
@@ -245,12 +245,12 @@ laid out in succession. This is when we put that much to the test.
 **Getting answers with the help of two actual people**
 
 
-<a id="orgc40bf64"></a>
+<a id="orge5b7bbe"></a>
 
 ### Clear feedback
 
-We easily save time by acting on the right feedback and making good
-bets. They lead us when acting on their clues.
+We easily save time by acting on good feedback and making good bets.
+They lead us when acting on their clues.
 
 **Our initial perception** She prepares for her upcoming week with the
 help of the Gudeeds app volunteer scheduling app.
@@ -264,12 +264,12 @@ help of the Gudeeds app volunteer scheduling app.
 likely to book also.
 
 
-<a id="orgcfa9fc7"></a>
+<a id="orgc596705"></a>
 
 ## Case for moving forward
 
 
-<a id="orga705a04"></a>
+<a id="org06beb76"></a>
 
 ### Gudeeds as client
 
@@ -277,7 +277,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="orgfca1e00"></a>
+<a id="org8c57778"></a>
 
 ### Next Steps
 
