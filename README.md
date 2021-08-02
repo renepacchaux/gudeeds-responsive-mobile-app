@@ -1,23 +1,23 @@
 # Doing as neighbors do
 
-1.  [Good deeds](#orgd4059b6)
-    1.  [Comfortable for some](#orgd41d6b3)
-        1.  [Zeroing in on trust](#orgefb15cd)
-        2.  [Looking at the Task Business](#org554c206)
-        3.  [But how do you know?](#org66cf409)
-    2.  [Thin air trust](#org98eaf38)
-        1.  [On the Problem](#org1fe7872)
-        2.  [For the Solution](#org0dd46f0)
-    3.  [Worthy of display](#orga2050a9)
-        1.  [Sketching](#org79dcd1d)
-        2.  [Two canvases](#orgafdb252)
-        3.  [Clear feedback](#orge5b7bbe)
-    4.  [Case for moving forward](#orgc596705)
-        1.  [Gudeeds as client](#org06beb76)
-        2.  [Next Steps](#org8c57778)
+1.  [Good deeds](#orgdad216d)
+    1.  [How do you recognize neighborly deeds?](#org804d25d)
+        1.  [Zeroing in on trust](#org75fe095)
+        2.  [Looking at the Task Business](#org36d53cf)
+        3.  [But how do you know?](#org823e3ae)
+        4.  [Thin air #trust](#org5cb939d)
+        5.  [On the Problem](#org73e8df9)
+        6.  [For the Solution](#orge393d86)
+        7.  [Worthy of display #design](#orge76e6e6)
+        8.  [Sketching](#org41d23ec)
+        9.  [Two canvases](#org114a07e)
+        10. [Clear feedback](#org190a8b9)
+        11. [Case for moving forward #next](#org863d9be)
+        12. [Gudeeds as client](#org526fb35)
+        13. [Next Steps](#orgf895657)
 
 
-<a id="orgd4059b6"></a>
+<a id="orgdad216d"></a>
 
 # Good deeds
 
@@ -25,9 +25,9 @@
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="orgd41d6b3"></a>
+<a id="org804d25d"></a>
 
-## Comfortable for some
+## How do you recognize neighborly deeds?
 
 **Can we make it happen?**
 
@@ -63,8 +63,8 @@ choices allow us to work with that.
     minimally. It gave us time, however, to benefit us moving forward on
     designing.
     
-    **\* Research
-    \*\*** Other task apps
+    **\* 
+    \*\*** Other task apps #research
 
 Much work has been done for us already if we only look and see what is
 out there. To keep us from doing repetitive work, we looked at commonly
@@ -93,7 +93,7 @@ more and more interviewees, testers, co-workers, and yes, actual
 neighbors.
 
 
-<a id="orgefb15cd"></a>
+<a id="org75fe095"></a>
 
 ### Zeroing in on trust
 
@@ -102,7 +102,7 @@ neighbors.
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org554c206"></a>
+<a id="org36d53cf"></a>
 
 ### Looking at the Task Business
 
@@ -147,7 +147,7 @@ We thought about how we would deliver our work at the final meta
 meeting. We are on our way to delivering it to four groups of 10 people.
 
 
-<a id="org66cf409"></a>
+<a id="org823e3ae"></a>
 
 ### But how do you know?
 
@@ -160,9 +160,9 @@ this.
 Sabrina also works to raise two children.
 
 
-<a id="org98eaf38"></a>
+<a id="org5cb939d"></a>
 
-## Thin air trust
+### Thin air #trust
 
 Sabrina needs help. She needs to ask for a favor. The gudeeds app needs
 more uptake to be successful. It is my role to ask if something is
@@ -177,7 +177,7 @@ The team of engineers seemed to appreciate this problem being voiced at
 our meeting.
 
 
-<a id="org1fe7872"></a>
+<a id="org73e8df9"></a>
 
 ### On the Problem
 
@@ -191,7 +191,7 @@ direction for the app. The difference between *saying it* and *doing
 it*.
 
 
-<a id="org0dd46f0"></a>
+<a id="orge393d86"></a>
 
 ### For the Solution
 
@@ -205,12 +205,12 @@ While she may be busy, we can estimate that at this particular moment,
 she is less stressed out.
 
 
-<a id="orga2050a9"></a>
+<a id="orge76e6e6"></a>
 
-## Worthy of display
+### Worthy of display #design
 
 
-<a id="org79dcd1d"></a>
+<a id="org41d23ec"></a>
 
 ### Sketching
 
@@ -220,7 +220,7 @@ she is less stressed out.
 'time-crunch.'
 
 
-<a id="orgafdb252"></a>
+<a id="org114a07e"></a>
 
 ### Two canvases
 
@@ -245,7 +245,7 @@ laid out in succession. This is when we put that much to the test.
 **Getting answers with the help of two actual people**
 
 
-<a id="orge5b7bbe"></a>
+<a id="org190a8b9"></a>
 
 ### Clear feedback
 
@@ -264,12 +264,12 @@ help of the Gudeeds app volunteer scheduling app.
 likely to book also.
 
 
-<a id="orgc596705"></a>
+<a id="org863d9be"></a>
 
-## Case for moving forward
+### Case for moving forward #next
 
 
-<a id="org06beb76"></a>
+<a id="org526fb35"></a>
 
 ### Gudeeds as client
 
@@ -277,7 +277,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org8c57778"></a>
+<a id="orgf895657"></a>
 
 ### Next Steps
 
