@@ -1,50 +1,51 @@
 # Doing as neighbors do
 
-1.  [Good deeds](#orgdad216d)
-    1.  [How do you recognize neighborly deeds?](#org804d25d)
-        1.  [Zeroing in on trust](#org75fe095)
-        2.  [Looking at the Task Business](#org36d53cf)
-        3.  [But how do you know?](#org823e3ae)
-        4.  [Thin air #trust](#org5cb939d)
-        5.  [On the Problem](#org73e8df9)
-        6.  [For the Solution](#orge393d86)
-        7.  [Worthy of display #design](#orge76e6e6)
-        8.  [Sketching](#org41d23ec)
-        9.  [Two canvases](#org114a07e)
-        10. [Clear feedback](#org190a8b9)
-        11. [Case for moving forward #next](#org863d9be)
-        12. [Gudeeds as client](#org526fb35)
-        13. [Next Steps](#orgf895657)
+1.  [Good deeds](#orgbb2660f)
+    1.  [How do you recognize neighborly deeds?](#org11865d7)
+        1.  [Zeroing in on trust](#orgdd6625d)
+        2.  [Looking at the Task Business](#orgfe05c4f)
+        3.  [But how do you know?](#org0d7c92d)
+        4.  [Thin air #trust](#org04608b3)
+        5.  [On the Problem](#org104aa97)
+        6.  [For the Solution](#orge1e90d8)
+        7.  [Worthy of display #design](#org2e852cb)
+        8.  [Sketching](#org8e9bd62)
+        9.  [Two canvases](#org09f7477)
+        10. [Clear feedback](#orgf4e60cf)
+        11. [Case for moving forward #next](#orgf7a9137)
+        12. [Gudeeds as client](#orgd456c00)
+        13. [Next Steps](#org9e87284)
 
 
-<a id="orgdad216d"></a>
+<a id="orgbb2660f"></a>
 
 # Good deeds
-
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org804d25d"></a>
+<a id="org11865d7"></a>
 
 ## How do you recognize neighborly deeds?
 
-**Can we make it happen?**
+**Building to solve a problem**
 
-We are a team of designers and developers.
-
-We had three days. Here, I take my chance to ask any questions about our
-made-up person, Sabrina. We all know a Sabrina. She has kids and little
-time. Our Sabrina happens to be a nurse with odd hours.
+We are a team of designers and developers. We need to communicate well
+enough to walk down the design process with progress at each step.
 
 **Devices**
 
-Our persona was built on a few back-and-forths we had about our mindset.
-Where were we all coming from before we even list and describe any
-assumptions on the table? At this stage, it makes sense that we mention
-a scenario. A possible situation would be pulling out a phone rather
-than a laptop at a grocery store. Technically speaking, two foundational
-choices allow us to work with that.
+At this initial stage, we know we want to make a thing that works. It
+makes sense that we mention a scenario. Let's say we are at a grocery
+store. Who pulls out a laptop at the grocery store? A possible situation
+would be pulling out a phone at the grocery aisle, rather than anything
+else. Apps have to be built out for multiple screens. It is also helpful
+to pick one as a goal. The mobile sized screen became our chosen screen
+to build the rest upon. It would allow us to build out the rest,
+desktops, for when the that comes up. To avoid overlapping our focused
+energy, we needed to know where were we all coming from before we even
+list any issues we were having with the in-process app build-out. What
+assumptions can we lay out so far?
 
 -   Webapp
     
@@ -93,7 +94,7 @@ more and more interviewees, testers, co-workers, and yes, actual
 neighbors.
 
 
-<a id="org75fe095"></a>
+<a id="orgdd6625d"></a>
 
 ### Zeroing in on trust
 
@@ -102,7 +103,7 @@ neighbors.
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org36d53cf"></a>
+<a id="orgfe05c4f"></a>
 
 ### Looking at the Task Business
 
@@ -147,9 +148,15 @@ We thought about how we would deliver our work at the final meta
 meeting. We are on our way to delivering it to four groups of 10 people.
 
 
-<a id="org823e3ae"></a>
+<a id="org0d7c92d"></a>
 
 ### But how do you know?
+
+Our persona was built on a few back-and-forths we had about our mindset.
+
+We had three days. Here, I take my chance to ask any questions about our
+made-up person, Sabrina. We all know a Sabrina. She has kids and little
+time. Our Sabrina happens to be a nurse with odd hours.
 
 **Sabrina**
 
@@ -160,7 +167,7 @@ this.
 Sabrina also works to raise two children.
 
 
-<a id="org5cb939d"></a>
+<a id="org04608b3"></a>
 
 ### Thin air #trust
 
@@ -177,7 +184,7 @@ The team of engineers seemed to appreciate this problem being voiced at
 our meeting.
 
 
-<a id="org73e8df9"></a>
+<a id="org104aa97"></a>
 
 ### On the Problem
 
@@ -191,7 +198,7 @@ direction for the app. The difference between *saying it* and *doing
 it*.
 
 
-<a id="orge393d86"></a>
+<a id="orge1e90d8"></a>
 
 ### For the Solution
 
@@ -205,12 +212,12 @@ While she may be busy, we can estimate that at this particular moment,
 she is less stressed out.
 
 
-<a id="orge76e6e6"></a>
+<a id="org2e852cb"></a>
 
 ### Worthy of display #design
 
 
-<a id="org41d23ec"></a>
+<a id="org8e9bd62"></a>
 
 ### Sketching
 
@@ -220,7 +227,7 @@ she is less stressed out.
 'time-crunch.'
 
 
-<a id="org114a07e"></a>
+<a id="org09f7477"></a>
 
 ### Two canvases
 
@@ -245,7 +252,7 @@ laid out in succession. This is when we put that much to the test.
 **Getting answers with the help of two actual people**
 
 
-<a id="org190a8b9"></a>
+<a id="orgf4e60cf"></a>
 
 ### Clear feedback
 
@@ -264,12 +271,12 @@ help of the Gudeeds app volunteer scheduling app.
 likely to book also.
 
 
-<a id="org863d9be"></a>
+<a id="orgf7a9137"></a>
 
 ### Case for moving forward #next
 
 
-<a id="org526fb35"></a>
+<a id="orgd456c00"></a>
 
 ### Gudeeds as client
 
@@ -277,7 +284,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="orgf895657"></a>
+<a id="org9e87284"></a>
 
 ### Next Steps
 
