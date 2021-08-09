@@ -1,30 +1,34 @@
 # Doing as neighbors do
 
-1.  [Good deeds](#orgbb2660f)
-    1.  [How do you recognize neighborly deeds?](#org11865d7)
-        1.  [Zeroing in on trust](#orgdd6625d)
-        2.  [Looking at the Task Business](#orgfe05c4f)
-        3.  [But how do you know?](#org0d7c92d)
-        4.  [Thin air #trust](#org04608b3)
-        5.  [On the Problem](#org104aa97)
-        6.  [For the Solution](#orge1e90d8)
-        7.  [Worthy of display #design](#org2e852cb)
-        8.  [Sketching](#org8e9bd62)
-        9.  [Two canvases](#org09f7477)
-        10. [Clear feedback](#orgf4e60cf)
-        11. [Case for moving forward #next](#orgf7a9137)
-        12. [Gudeeds as client](#orgd456c00)
-        13. [Next Steps](#org9e87284)
+
+1.  [Good deeds](#orgd2e9a6d)
+    1.  [How do you recognize neighborly deeds?](#org18e2ba3)
+        1.  [Other task apps #research](#orgd118aad)
+        2.  [Zeroing in on trust](#orgbafa211)
+        3.  [Looking at the Task Business](#orgcdd1206)
+        4.  [But how do you know?](#orgf956832)
+        5.  [Thin air #trust](#orgd9c561e)
+        6.  [On the Problem](#org063ec00)
+        7.  [For the Solution](#org06232af)
+        8.  [Worthy of display #design](#org58674e9)
+        9.  [Sketching](#orgb032287)
+        10. [Two canvases](#org14e1773)
+        11. [Clear feedback](#orgc04d4e3)
+        12. [Case for moving forward #next](#org67f72fe)
+        13. [Gudeeds as client](#org49b6a43)
+        14. [Next Steps](#orgad3cc37)
 
 
-<a id="orgbb2660f"></a>
+<a id="orgd2e9a6d"></a>
 
 # Good deeds
+
+
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org11865d7"></a>
+<a id="org18e2ba3"></a>
 
 ## How do you recognize neighborly deeds?
 
@@ -38,14 +42,14 @@ enough to walk down the design process with progress at each step.
 At this initial stage, we know we want to make a thing that works. It
 makes sense that we mention a scenario. Let's say we are at a grocery
 store. Who pulls out a laptop at the grocery store? A possible situation
-would be pulling out a phone at the grocery aisle, rather than anything
+would be pulling out a phone at the grocery aisle rather than anything
 else. Apps have to be built out for multiple screens. It is also helpful
-to pick one as a goal. The mobile sized screen became our chosen screen
+to pick one as a goal. The mobile-sized screen became our chosen screen
 to build the rest upon. It would allow us to build out the rest,
-desktops, for when the that comes up. To avoid overlapping our focused
-energy, we needed to know where were we all coming from before we even
+desktops, for when that comes up. To avoid overlapping our focused
+energy, we needed to know where where we all coming from before we even
 list any issues we were having with the in-process app build-out. What
-assumptions can we lay out so far?
+assertions can we commit to right now?
 
 -   Webapp
     
@@ -63,9 +67,11 @@ assumptions can we lay out so far?
     (<https://www.figma.com/community/file/880534892514982400>) boxed us in
     minimally. It gave us time, however, to benefit us moving forward on
     designing.
-    
-    **\* 
-    \*\*** Other task apps #research
+
+
+<a id="orgd118aad"></a>
+
+### Other task apps #research
 
 Much work has been done for us already if we only look and see what is
 out there. To keep us from doing repetitive work, we looked at commonly
@@ -94,7 +100,7 @@ more and more interviewees, testers, co-workers, and yes, actual
 neighbors.
 
 
-<a id="orgdd6625d"></a>
+<a id="orgbafa211"></a>
 
 ### Zeroing in on trust
 
@@ -103,19 +109,18 @@ neighbors.
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="orgfe05c4f"></a>
+<a id="orgcdd1206"></a>
 
 ### Looking at the Task Business
 
-As the cross-functional team went to build all the parts that make up a
-virtual person within an app. They are a person with an age and
-location, as task giver or receiver. In the inner workings of Gudeeds,
-the UX Team contributed the moment in time, as seen by the user, that
-qualifies as the point of entry as a person who needs a thing. As a UX
-practitioner, I am concerned about efficiency and where time spent
-simply learning to use the app guides our priorities. We were building a
-context with which to hand off and accurately express the blueprints to
-the development team.
+The cross-functional team went to build all the parts that make up a
+virtual person within an app. They are a person has age and location, as
+task giver or receiver. In the inner workings of Gudeeds, the UX Team
+contributed the moment in time, as seen by the user, that qualifies as
+the point of entry as a person who needs a thing. As a UX practitioner,
+I am concerned about efficiency and where time spent simply learning to
+use the app guides our priorities. We were building a context to hand
+off and accurately express the blueprints to the development team.
 
 **Business Analysis** It would be fun to have a ‘karma'-like score. Maybe
 for the backend - a dashboard, maybe. We set this aside because our
@@ -141,14 +146,14 @@ Who does she pay back first?
 
 **First to sign up**
 
-Our team, starts to figure out and document why a person in Sabrina's
+Our team starts to figure out and document why a person in Sabrina's
 shoes would have felt the way she did.
 
 We thought about how we would deliver our work at the final meta
 meeting. We are on our way to delivering it to four groups of 10 people.
 
 
-<a id="org0d7c92d"></a>
+<a id="orgf956832"></a>
 
 ### But how do you know?
 
@@ -167,7 +172,7 @@ this.
 Sabrina also works to raise two children.
 
 
-<a id="org04608b3"></a>
+<a id="orgd9c561e"></a>
 
 ### Thin air #trust
 
@@ -178,13 +183,13 @@ trust? Is that something that can be coded?
 
 The persona adds neighbors. They, in turn, help *her* down the line.
 Without an initial network, what would lead Sabrina to believe that this
-app can be of any help at the time she downloads it? Do we make it fun
-like a game, or do we consider putting it in the ‘maybe pile' for now?
-The team of engineers seemed to appreciate this problem being voiced at
-our meeting.
+app can be of any help when she downloads it? Do we make it fun like a
+game, or do we consider putting it in the ‘maybe pile' for now? The team
+of engineers seemed to appreciate this problem being voiced at our
+meeting.
 
 
-<a id="org104aa97"></a>
+<a id="org063ec00"></a>
 
 ### On the Problem
 
@@ -198,7 +203,7 @@ direction for the app. The difference between *saying it* and *doing
 it*.
 
 
-<a id="orge1e90d8"></a>
+<a id="org06232af"></a>
 
 ### For the Solution
 
@@ -212,12 +217,12 @@ While she may be busy, we can estimate that at this particular moment,
 she is less stressed out.
 
 
-<a id="org2e852cb"></a>
+<a id="org58674e9"></a>
 
 ### Worthy of display #design
 
 
-<a id="org8e9bd62"></a>
+<a id="orgb032287"></a>
 
 ### Sketching
 
@@ -227,7 +232,7 @@ she is less stressed out.
 'time-crunch.'
 
 
-<a id="org09f7477"></a>
+<a id="org14e1773"></a>
 
 ### Two canvases
 
@@ -241,18 +246,19 @@ Are we talking about the same screen? The actual meeting we had on this
 was short but valuable. The design and engineering agreed that everyone
 would start on the same page.
 
-We are trying to make sure that an extremely busy person is not spending
-more time learning how to use our app at the end of the week. Sabrina,
-for example, may have the app in hand to possibly do the opposite and
-take on more tasks than usual. We now had our one-pager - a few screens
-laid out in succession. This is when we put that much to the test.
+We are trying to make sure that an extremely busy person is not
+inundated with learning how to use our app at the end of the week.
+Sabrina, for example, may have the app in hand to possibly do the
+opposite and take on more tasks than usual. We now had our one-pager - a
+few screens laid out in succession. This is when we put that much to the
+test.
 
 **Moving slightly into color**
 
 **Getting answers with the help of two actual people**
 
 
-<a id="orgf4e60cf"></a>
+<a id="orgc04d4e3"></a>
 
 ### Clear feedback
 
@@ -271,12 +277,12 @@ help of the Gudeeds app volunteer scheduling app.
 likely to book also.
 
 
-<a id="orgf7a9137"></a>
+<a id="org67f72fe"></a>
 
 ### Case for moving forward #next
 
 
-<a id="orgd456c00"></a>
+<a id="org49b6a43"></a>
 
 ### Gudeeds as client
 
@@ -284,7 +290,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org9e87284"></a>
+<a id="orgad3cc37"></a>
 
 ### Next Steps
 
