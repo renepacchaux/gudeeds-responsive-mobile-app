@@ -1,63 +1,62 @@
 # Acts of togetherness
 
-1.  [Good deeds](#org5c1fcea)
-    1.  [Neighborly recognition](#org92ef9b3)
-        1.  [Preparing to solve a problem](#orgcd3e60f)
-    2.  [Research](#org6c2bffc)
-        1.  [Zeroing in on trust](#orgfc68713)
-        2.  [Looking at the Task Business](#org7aae2f8)
-        3.  [But how do you know?](#org29e5ae9)
-        4.  [Trust Summary](#orgf9979c2)
-        5.  [On the Problem](#orgcd244f5)
-        6.  [For the Solution](#org66773fc)
-    3.  [Design](#org971846e)
-        1.  [Sketching](#org128d04e)
-        2.  [Two canvases](#org104068b)
-        3.  [Clear feedback](#orgda8f15b)
-        4.  [Case for moving forward #next](#org2b73c44)
-        5.  [Gudeeds as client](#org6a17712)
-        6.  [Next Steps](#org3a2d372)
+1.  [Good deeds](#org60f1906)
+    1.  [Neighborly recognition](#org21b1549)
+        1.  [Preparing to solve a problem](#org213230c)
+    2.  [Research](#org69cfadb)
+        1.  [Zeroing in on trust](#org610fecf)
+        2.  [Looking at the Task Business](#org64370e6)
+        3.  [But how do you know?](#org76241e6)
+        4.  [Trust Summary](#org0bafcdb)
+        5.  [On the Problem](#org3761e90)
+        6.  [For the Solution](#orga0474d5)
+    3.  [Design](#org7ad5f8c)
+        1.  [Sketching](#org0a6665c)
+        2.  [Two canvases](#org833aaad)
+        3.  [Clear feedback](#org78354cd)
+        4.  [Case for moving forward #next](#orga9b6f2d)
+        5.  [Gudeeds as client](#orga2eeaa9)
+        6.  [Next Steps](#orgbdd030e)
 
 
-<a id="org5c1fcea"></a>
+<a id="org60f1906"></a>
 
 # Good deeds
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org92ef9b3"></a>
+<a id="org21b1549"></a>
 
 ## Neighborly recognition
 
 
-<a id="orgcd3e60f"></a>
+<a id="org213230c"></a>
 
 ### Preparing to solve a problem
 
-I was part of a team of 4 designers and 5 developers. I communicated the
-design process to show progress when meeting with engineers. I described
-my pre-conceptions when meeting with the other designers. Since I was
-meeting with the design team, more often our work included touch points
-on what the next task was. In effect, we were practicing our meetings
-with developers. Those meetings had to be short and decisive.
+Part of a team of 4 designers and 5 developers, carrying out design
+decisions meant meeting with the design team more often to agree on
+touchpoints. I communicated the design process to show progress when
+meeting with engineers. In effect, I am practicing meetings with
+developers. Those meetings had to be short and decisive.
 
 **Devices in mind**
 
-I am going to describe my initial thoughts. At this initial stage, I
-need to describe a thing that already works. For an example scenario, I
-picture myself at a grocery store and I am carrying a laptop. Who pulls
-out a laptop at the grocery store? I am likely to instead use my phone.
-Before any pencil has hit paper, I have made a mental decision about
-where this application will life. When I talk to the design team, I
-might mention apps being built out for multiple screens. To help move
-this piece forward, I can set one screen as a goal: the mobile version.
-The mobile-sized screen is my chosen screen to build upon. This would
-put anything other than phone-sized screens further down the priority
-ladder. I reap the benefit of not overlapping my effort with anyone
-elses. I need to know everyone elses direction but not plans. I can
-listen to issues about the buildout along the way. I wanted to commit to
-the next meeting being a smooth one.
+I described my pre-conceptions when meeting with the other designers. At
+this initial stage, I need to describe a thing that already works. For
+an example scenario, I picture myself at a grocery store. I am carrying
+a laptop. Who pulls out a laptop at the grocery store? I am likely to
+instead use my phone. Before any pencil has hit paper, I have made a
+mental decision about where this application will live. When I talk to
+the design team, I might mention apps being built out for multiple
+screens. To help move this piece forward, I can set one screen as a
+goal: the mobile version. The mobile-sized screen is my chosen screen to
+build upon. This would put anything other than phone-sized screens
+further down the priority ladder. I reap the benefit of not overlapping
+my effort with anyone else. I need to know everyone else's direction but
+not plans. I can listen to issues about the buildout along the way. I
+wanted to commit to the next meeting being a smooth one.
 
 I call out a few details about the choices and what doors they might
 open for future continued updates.
@@ -73,16 +72,12 @@ open for future continued updates.
     I know there is less room for features. Where a user looks first takes
     a smaller footprint.
 
-We put together visuals in a short amount of time. It makes sense. We
-would borrow from a design library. We expanded our minds beyond
-designing for iOS products. We knew our first stab at this design would
-be on a phone width. The decision to use [Figma's Material Design UI
-kit] (<https://www.figma.com/community/file/880534892514982400>) boxed us
-in minimally. It gave us time, however, to benefit us moving forward on
-designing.
+To help, I took pieces from [Figma's Material Design UI kit]
+(<https://www.figma.com/community/file/880534892514982400>) It goes a bit
+beyond just designing for iOS products.
 
 
-<a id="org6c2bffc"></a>
+<a id="org69cfadb"></a>
 
 ## Research
 
@@ -114,7 +109,7 @@ more and more interviewees, testers, co-workers, and yes, actual
 neighbors.
 
 
-<a id="orgfc68713"></a>
+<a id="org610fecf"></a>
 
 ### Zeroing in on trust
 
@@ -123,7 +118,7 @@ neighbors.
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="org7aae2f8"></a>
+<a id="org64370e6"></a>
 
 ### Looking at the Task Business
 
@@ -169,7 +164,7 @@ We thought about how we would deliver our work at the final meta
 meeting. We are on our way to delivering it to four groups of 10 people.
 
 
-<a id="org29e5ae9"></a>
+<a id="org76241e6"></a>
 
 ### But how do you know?
 
@@ -188,7 +183,7 @@ this.
 Sabrina also works to raise two children.
 
 
-<a id="orgf9979c2"></a>
+<a id="org0bafcdb"></a>
 
 ### Trust Summary
 
@@ -205,7 +200,7 @@ of engineers seemed to appreciate this problem being voiced at our
 meeting.
 
 
-<a id="orgcd244f5"></a>
+<a id="org3761e90"></a>
 
 ### On the Problem
 
@@ -219,7 +214,7 @@ direction for the app. The difference between *saying it* and *doing
 it*.
 
 
-<a id="org66773fc"></a>
+<a id="orga0474d5"></a>
 
 ### For the Solution
 
@@ -233,14 +228,21 @@ While she may be busy, we can estimate that at this particular moment,
 she is less stressed out.
 
 
-<a id="org971846e"></a>
+<a id="org7ad5f8c"></a>
 
 ## Design
 
 
-<a id="org128d04e"></a>
+<a id="org0a6665c"></a>
 
 ### Sketching
+
+I contributed to the design studio visuals knowing we had a short amount
+of time. We used a bracket system to come up with the final design for
+our sprint. I knew my first penci design would be on a phone width
+canvas, or a 3x5 actual physical card. I moved forward incrementally,
+and so did the design team. It gave us time as it guaranteed forward
+action on a design decision.
 
 -   [design Studio Brackets]
 
@@ -249,7 +251,7 @@ she is less stressed out.
 A situation recognized as a 'time-crunch.'
 
 
-<a id="org104068b"></a>
+<a id="org833aaad"></a>
 
 ### Two canvases
 
@@ -275,7 +277,7 @@ test.
 **Getting answers with the help of two actual people**
 
 
-<a id="orgda8f15b"></a>
+<a id="org78354cd"></a>
 
 ### Clear feedback
 
@@ -294,12 +296,12 @@ help of the Gudeeds app volunteer scheduling app.
 likely to book also.
 
 
-<a id="org2b73c44"></a>
+<a id="orga9b6f2d"></a>
 
 ### Case for moving forward #next
 
 
-<a id="org6a17712"></a>
+<a id="orga2eeaa9"></a>
 
 ### Gudeeds as client
 
@@ -307,7 +309,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="org3a2d372"></a>
+<a id="orgbdd030e"></a>
 
 ### Next Steps
 
