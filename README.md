@@ -1,87 +1,101 @@
-# Doing as neighbors do
+# Acts of togetherness
+
+1.  [Good deeds](#org5c1fcea)
+    1.  [Neighborly recognition](#org92ef9b3)
+        1.  [Preparing to solve a problem](#orgcd3e60f)
+    2.  [Research](#org6c2bffc)
+        1.  [Zeroing in on trust](#orgfc68713)
+        2.  [Looking at the Task Business](#org7aae2f8)
+        3.  [But how do you know?](#org29e5ae9)
+        4.  [Trust Summary](#orgf9979c2)
+        5.  [On the Problem](#orgcd244f5)
+        6.  [For the Solution](#org66773fc)
+    3.  [Design](#org971846e)
+        1.  [Sketching](#org128d04e)
+        2.  [Two canvases](#org104068b)
+        3.  [Clear feedback](#orgda8f15b)
+        4.  [Case for moving forward #next](#org2b73c44)
+        5.  [Gudeeds as client](#org6a17712)
+        6.  [Next Steps](#org3a2d372)
 
 
-1.  [Good deeds](#orgd2e9a6d)
-    1.  [How do you recognize neighborly deeds?](#org18e2ba3)
-        1.  [Other task apps #research](#orgd118aad)
-        2.  [Zeroing in on trust](#orgbafa211)
-        3.  [Looking at the Task Business](#orgcdd1206)
-        4.  [But how do you know?](#orgf956832)
-        5.  [Thin air #trust](#orgd9c561e)
-        6.  [On the Problem](#org063ec00)
-        7.  [For the Solution](#org06232af)
-        8.  [Worthy of display #design](#org58674e9)
-        9.  [Sketching](#orgb032287)
-        10. [Two canvases](#org14e1773)
-        11. [Clear feedback](#orgc04d4e3)
-        12. [Case for moving forward #next](#org67f72fe)
-        13. [Gudeeds as client](#org49b6a43)
-        14. [Next Steps](#orgad3cc37)
-
-
-<a id="orgd2e9a6d"></a>
+<a id="org5c1fcea"></a>
 
 # Good deeds
-
-
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org18e2ba3"></a>
+<a id="org92ef9b3"></a>
 
-## How do you recognize neighborly deeds?
+## Neighborly recognition
 
-**Building to solve a problem**
 
-We are a team of designers and developers. We need to communicate well
-enough to walk down the design process with progress at each step.
+<a id="orgcd3e60f"></a>
 
-**Devices**
+### Preparing to solve a problem
 
-At this initial stage, we know we want to make a thing that works. It
-makes sense that we mention a scenario. Let's say we are at a grocery
-store. Who pulls out a laptop at the grocery store? A possible situation
-would be pulling out a phone at the grocery aisle rather than anything
-else. Apps have to be built out for multiple screens. It is also helpful
-to pick one as a goal. The mobile-sized screen became our chosen screen
-to build the rest upon. It would allow us to build out the rest,
-desktops, for when that comes up. To avoid overlapping our focused
-energy, we needed to know where where we all coming from before we even
-list any issues we were having with the in-process app build-out. What
-assertions can we commit to right now?
+I was part of a team of 4 designers and 5 developers. I communicated the
+design process to show progress when meeting with engineers. I described
+my pre-conceptions when meeting with the other designers. Since I was
+meeting with the design team, more often our work included touch points
+on what the next task was. In effect, we were practicing our meetings
+with developers. Those meetings had to be short and decisive.
 
--   Webapp
+**Devices in mind**
+
+I am going to describe my initial thoughts. At this initial stage, I
+need to describe a thing that already works. For an example scenario, I
+picture myself at a grocery store and I am carrying a laptop. Who pulls
+out a laptop at the grocery store? I am likely to instead use my phone.
+Before any pencil has hit paper, I have made a mental decision about
+where this application will life. When I talk to the design team, I
+might mention apps being built out for multiple screens. To help move
+this piece forward, I can set one screen as a goal: the mobile version.
+The mobile-sized screen is my chosen screen to build upon. This would
+put anything other than phone-sized screens further down the priority
+ladder. I reap the benefit of not overlapping my effort with anyone
+elses. I need to know everyone elses direction but not plans. I can
+listen to issues about the buildout along the way. I wanted to commit to
+the next meeting being a smooth one.
+
+I call out a few details about the choices and what doors they might
+open for future continued updates.
+
+-   Desktop Web Application
     
-    Our work can work for iOS devices, but up to a point. We focused on
-    where our user looks first when they get to our page. We open the door
-    to future versions that can be opened from a browser on a desktop.
+    I can get a lot out of browsers. This situations where a user will
+    open a laptop or be at a desktop are already defined to me, in a
+    sense.
 
 -   Mobile
     
-    We put together visuals in a short amount of time. It makes sense. We
-    would borrow from a design library. We expanded our minds beyond
-    designing for iOS products. We knew our first stab at this design
-    would be on a phone width. The decision to use [Figma's Material
-    Design UI kit]
-    (<https://www.figma.com/community/file/880534892514982400>) boxed us in
-    minimally. It gave us time, however, to benefit us moving forward on
-    designing.
+    I know there is less room for features. Where a user looks first takes
+    a smaller footprint.
+
+We put together visuals in a short amount of time. It makes sense. We
+would borrow from a design library. We expanded our minds beyond
+designing for iOS products. We knew our first stab at this design would
+be on a phone width. The decision to use [Figma's Material Design UI
+kit] (<https://www.figma.com/community/file/880534892514982400>) boxed us
+in minimally. It gave us time, however, to benefit us moving forward on
+designing.
 
 
-<a id="orgd118aad"></a>
+<a id="org6c2bffc"></a>
 
-### Other task apps #research
+## Research
 
 Much work has been done for us already if we only look and see what is
 out there. To keep us from doing repetitive work, we looked at commonly
 used (but widely established) features that we would use as pieces of
 our puzzle in building the initial prototypes.
 
-**Common traits** We search for well-defined places on the internet where
-people go. What is already available to perform similar services? In
-these target roles, there is at least someone picking up groceries for
-somebody else.
+**Common traits**
+
+We search for well-defined places on the internet where people go. What
+is already available to perform similar services? In these target roles,
+there is at least someone picking up groceries for somebody else.
 
 -   Task Rabbit
 -   Amazon (Wholefoods)
@@ -100,7 +114,7 @@ more and more interviewees, testers, co-workers, and yes, actual
 neighbors.
 
 
-<a id="orgbafa211"></a>
+<a id="orgfc68713"></a>
 
 ### Zeroing in on trust
 
@@ -109,7 +123,7 @@ neighbors.
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="orgcdd1206"></a>
+<a id="org7aae2f8"></a>
 
 ### Looking at the Task Business
 
@@ -139,8 +153,10 @@ the user to work fast:
 -   Items
 -   Sort
 
-**Learn Quick** Our user, we imagine, is a real person with limited time.
-Who does she pay back first?
+**Learn Quick**
+
+Our user, we imagine, is a real person with limited time. Who does she
+pay back first?
 
 **Closeness of Volunteers and Trust Themes**
 
@@ -153,7 +169,7 @@ We thought about how we would deliver our work at the final meta
 meeting. We are on our way to delivering it to four groups of 10 people.
 
 
-<a id="orgf956832"></a>
+<a id="org29e5ae9"></a>
 
 ### But how do you know?
 
@@ -172,9 +188,9 @@ this.
 Sabrina also works to raise two children.
 
 
-<a id="orgd9c561e"></a>
+<a id="orgf9979c2"></a>
 
-### Thin air #trust
+### Trust Summary
 
 Sabrina needs help. She needs to ask for a favor. The gudeeds app needs
 more uptake to be successful. It is my role to ask if something is
@@ -189,7 +205,7 @@ of engineers seemed to appreciate this problem being voiced at our
 meeting.
 
 
-<a id="org063ec00"></a>
+<a id="orgcd244f5"></a>
 
 ### On the Problem
 
@@ -203,7 +219,7 @@ direction for the app. The difference between *saying it* and *doing
 it*.
 
 
-<a id="org06232af"></a>
+<a id="org66773fc"></a>
 
 ### For the Solution
 
@@ -217,22 +233,23 @@ While she may be busy, we can estimate that at this particular moment,
 she is less stressed out.
 
 
-<a id="org58674e9"></a>
+<a id="org971846e"></a>
 
-### Worthy of display #design
+## Design
 
 
-<a id="orgb032287"></a>
+<a id="org128d04e"></a>
 
 ### Sketching
 
 -   [design Studio Brackets]
 
-**Designing for the Time Crunch** A situation recognized as a
-'time-crunch.'
+**Designing for the Time Crunch**
+
+A situation recognized as a 'time-crunch.'
 
 
-<a id="org14e1773"></a>
+<a id="org104068b"></a>
 
 ### Two canvases
 
@@ -258,7 +275,7 @@ test.
 **Getting answers with the help of two actual people**
 
 
-<a id="orgc04d4e3"></a>
+<a id="orgda8f15b"></a>
 
 ### Clear feedback
 
@@ -277,12 +294,12 @@ help of the Gudeeds app volunteer scheduling app.
 likely to book also.
 
 
-<a id="org67f72fe"></a>
+<a id="org2b73c44"></a>
 
 ### Case for moving forward #next
 
 
-<a id="org49b6a43"></a>
+<a id="org6a17712"></a>
 
 ### Gudeeds as client
 
@@ -290,7 +307,7 @@ To Gudeeds, the tasks mean bookings. Each confirmation implies that
 their app is better at being reliable.
 
 
-<a id="orgad3cc37"></a>
+<a id="org3a2d372"></a>
 
 ### Next Steps
 
