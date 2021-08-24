@@ -82,7 +82,7 @@ beyond just designing for iOS products.
 ## Research
 
 Much work has been done for us already if we only look and see what is
-out there. To keep us from doing repetitive work, we looked at commonly
+out there. To keep from doing repetitive work, we looked at commonly
 used (but widely established) features that we would use as pieces of
 our puzzle in building the initial prototypes.
 
@@ -320,4 +320,3 @@ across her neighbors ' relationships.
 
 If booking now is based on trust, will charts and mini-analytics be more
 efficient to confirming her bookings?
-
