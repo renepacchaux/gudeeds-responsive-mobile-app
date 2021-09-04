@@ -46,7 +46,7 @@ I call out a few details about the choices and what doors they might open for fu
 
 -   Desktop Web Application
     
-    I can get a lot out of browsers. Where a user will open a laptop computer are already defined.
+    I can get a lot out of browsers. Where a user will open a laptop computer is already defined.
 
 -   Mobile
     
@@ -56,7 +56,7 @@ To help, I took pieces from [Figma's Material Design UI kit] (<https://www.figma
 
 I took my questions to other designers before meeting with engineers. Talking to the design team, they mention apps being built out for multiple screens.
 
-I reap the benefit of not doubling my effort over the same material. I need to know consensus direction but not plans. I can listen to issues about the buildout along the way. I wanted to commit to the next meeting going smooth. #my-approach
+I reap the benefit of not doubling my effort over the same material. I need to know consensus direction but not plans. I can listen to issues about the buildout along the way. I wanted to commit to the next meeting going smoothly. #my-approach
 
 At this initial stage, I need to describe a thing that already works. For example, I picture myself at a grocery store. I am carrying a laptop. Who pulls out a laptop at the grocery store? I am likely to use my phone instead.
 
@@ -77,9 +77,9 @@ To keep from doing repetitive work, we looked at commonly used (but widely estab
 
 **Common traits**
 
-I involve more and more interviewees, testers, co-workers, and actual neighbors get a better grasp of what the user might use.
+I involve more and more interviewees, testers, co-workers, and actual neighbors to get a better grasp of what the user might use.
 
-In similar task apps we find categories or filters. There is at least someone picking up groceries for somebody else.
+In similar task apps, we find categories or filters. There is at least someone picking up groceries for somebody else.
 
 -   Task Rabbit
 -   Amazon (Wholefoods)
@@ -285,4 +285,3 @@ Turning the task system into a game sounds like a fun idea.
 Sandra just downloaded the Gudeeds app. The app will help build trust across her neighbors ' relationships.
 
 If booking now is based on trust, will charts and mini-analytics be more efficient to confirming her bookings?
-
