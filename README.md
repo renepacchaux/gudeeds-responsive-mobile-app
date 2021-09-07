@@ -1,48 +1,44 @@
 # Gamification highlight
 
-1.  [Good deeds](#org19c4023)
-    1.  [# Gamification highlight](#orga06bb44)
-2.  [Comfortable task to take on](#org2bdb543)
-    1.  [Intro](#orgee1f36b)
-    2.  [Looking at the Task Business](#org3eac5d8)
-    3.  [Research](#orgb2b2fa9)
-    4.  [Gaining trust](#org2f10429)
-    5.  [Challenge](#orgb530c57)
-    6.  [Project Solution](#org2a9be66)
-    7.  [Design Work](#orgcc75776)
-    8.  [Two canvases](#org6a17dbb)
-    9.  [Clear feedback](#org1655f21)
-    10. [Testing the Prototypes](#org3eb15b5)
-    11. [Snapshot and moving forward](#org1558a8c)
+1.  [Good deeds](#orgea9a266)
+    1.  [Task businesses researched](#org749a2fc)
+        1.  [Intro](#org5c34040)
+        2.  [Looking at the Task Business](#org50ff0fc)
+        3.  [Research](#org3260c51)
+        4.  [Gaining trust](#org4c09255)
+        5.  [Challenge](#orga27c628)
+        6.  [Project Solution](#orgff26cea)
+        7.  [Design Work](#org22ffebb)
+        8.  [Two canvases](#orgc5caf3d)
+        9.  [Clear feedback](#orgb76c392)
+        10. [Testing the Prototypes](#org36b043a)
+        11. [Snapshot and moving forward](#org51dc7ef)
 
 
-<a id="org19c4023"></a>
+<a id="orgea9a266"></a>
 
 # Good deeds
-
-
-<a id="orga06bb44"></a>
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org2bdb543"></a>
+<a id="org749a2fc"></a>
 
-# Comfortable task to take on
+## Task businesses researched
 
 
-<a id="orgee1f36b"></a>
+<a id="org5c34040"></a>
 
-## Intro
+### Intro
 
 I am participating in a team of five designers and five developers. I carry out design decisions meant to align on team touchpoints. I communicated the design process to show design progress when meeting with engineers.
 
 I am UX designer with a performance background that colors my process. I'll show you how I rehearse my meetings with developers. Those meetings have to be short and decisive.
 
 
-<a id="org3eac5d8"></a>
+<a id="org50ff0fc"></a>
 
-## Looking at the Task Business
+### Looking at the Task Business
 
 Read on to see what research and business decisions helped fast-forward the live project to a prototype status while also learning about what guides my priorities in design meetings in a team setting.
 
@@ -81,9 +77,9 @@ I reap the benefit of not doubling my effort over the same material. I need to k
 Before any pencil has hit paper, I have made a mental decision about where this application will live.
 
 
-<a id="orgb2b2fa9"></a>
+<a id="org3260c51"></a>
 
-## Research
+### Research
 
 Much work on the UI has been done externally before I start. I only need to look and see what is out there.
 
@@ -122,25 +118,25 @@ We grouped the themes that came up among the neighbors interviewed.
 In a persona, I attempt to sketch out the day-to-day of a real person with limited time as it pertains to specific frustrations. Who does she pay back first?
 
 
-<a id="org2f10429"></a>
+<a id="org4c09255"></a>
 
-## Gaining trust
+### Gaining trust
 
 ![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/61378128ec180a0d11afd84d_Snipaste_2021-09-07_10-10-14.png)
 
 <https://www.renepacchaux.com/charts-overview/mood-board-proximity-gif>
 
 
-<a id="orgb530c57"></a>
+<a id="orga27c628"></a>
 
-## Challenge
+### Challenge
 
 For favors, just the stress of asking is enough of a barrier to moving forward. It is the top theme in user interviews.
 
 
-<a id="org2a9be66"></a>
+<a id="orgff26cea"></a>
 
-## Project Solution
+### Project Solution
 
 **Less Stressed**
 
@@ -190,9 +186,9 @@ Don't we need a network in place to gain trust? Is that something that can be co
 The persona adds neighbors. They, in turn, help *her* down the line. Without an initial network, what would lead Sabrina to believe that this app can be of any help when she downloads it?
 
 
-<a id="orgcc75776"></a>
+<a id="org22ffebb"></a>
 
-## Design Work
+### Design Work
 
 **Sketching**
 
@@ -203,9 +199,9 @@ I moved forward incrementally, and so did the design team. It gave us time as it
 I contributed to the design studio visuals knowing we had a short amount of time. We used a bracket system to come up with the final design for our sprint. The design studio winner was cleared away at the last moment for a simplified, condensed, streamlined approach that was drawn live on a meeting.
 
 
-<a id="org6a17dbb"></a>
+<a id="orgc5caf3d"></a>
 
-## Two canvases
+### Two canvases
 
 There is the volunteer who participates by completing grocery pickup and other tasks for the neighbors. I had to be alert about for whom the first draft is about - the volunteer or the neighbor, or both?
 
@@ -219,12 +215,12 @@ Are we talking about using the same screen for adding and taking on tasks? The d
 
 Our design library helped make the decision to moving to a provided color palate.
 
-We asked 2 actual neighbors for their help and interviewed them.
+We asked two actual neighbors for their help and interviewed them.
 
 
-<a id="org1655f21"></a>
+<a id="orgb76c392"></a>
 
-## Clear feedback
+### Clear feedback
 
 We easily save time by acting on good feedback and making good bets. They lead us to clear skies when acting on their clues.
 
@@ -242,9 +238,9 @@ Primary action button perception was:
 Clarifying the types of tasks that others get help with, she is likely to book also.
 
 
-<a id="org3eb15b5"></a>
+<a id="org36b043a"></a>
 
-## Testing the Prototypes
+### Testing the Prototypes
 
 ![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/61378c0e619a95dad0778787_protoframe_blueprint.png)
 
@@ -253,9 +249,9 @@ Clarifying the types of tasks that others get help with, she is likely to book a
 I conducted interviews and asked for thoughts aloud if they were comfortable to do so. While explaining their touchpoints on the app, I noted some recurring problems with button placement. There was also confusion about which buttons provided similar action.
 
 
-<a id="org1558a8c"></a>
+<a id="org51dc7ef"></a>
 
-## Snapshot and moving forward
+### Snapshot and moving forward
 
 Maybe for the backend - a dashboard, maybe. Because the testing gave an already clear direction, this contribution did not make it past the design studio stage at the early stages of work.
 
@@ -277,4 +273,5 @@ Turning the task system into a game sounds like a fun idea.
 
 Sandra just downloaded the Gudeeds app. The app will help build trust across her neighbors ' relationships.
 
-If booking is based on trust, will charts and mini-analytics be more efficient at confirming her bookings?
+If booking now is based on trust, will charts and mini-analytics be more efficient at confirming her bookings?
+
