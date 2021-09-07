@@ -1,41 +1,58 @@
 # Gamification highlight
 
-1.  [Good deeds](#org0344625)
-    1.  [Comfortable task to take on](#orgd4c8b04)
-        1.  [Intro](#orga6f4e86)
-        2.  [Research](#org05b45c3)
-        3.  [The work of gaining trust](#orgc098759)
-        4.  [Challenge](#org42cd677)
-        5.  [Project Solution](#org6458c2b)
-        6.  [Looking at the Task Business](#org7e3bfb7)
-        7.  [Design Work](#org6a09ae4)
-        8.  [Two canvases](#org40147a9)
-        9.  [Clear feedback](#orgc82c924)
-        10. [Testing the Prototypes](#org8dab401)
-        11. [Snapshot and moving forward](#org75a2463)
+1.  [Good deeds](#org19c4023)
+    1.  [# Gamification highlight](#orga06bb44)
+2.  [Comfortable task to take on](#org2bdb543)
+    1.  [Intro](#orgee1f36b)
+    2.  [Looking at the Task Business](#org3eac5d8)
+    3.  [Research](#orgb2b2fa9)
+    4.  [Gaining trust](#org2f10429)
+    5.  [Challenge](#orgb530c57)
+    6.  [Project Solution](#org2a9be66)
+    7.  [Design Work](#orgcc75776)
+    8.  [Two canvases](#org6a17dbb)
+    9.  [Clear feedback](#org1655f21)
+    10. [Testing the Prototypes](#org3eb15b5)
+    11. [Snapshot and moving forward](#org1558a8c)
 
 
-<a id="org0344625"></a>
+<a id="org19c4023"></a>
 
 # Good deeds
+
+
+<a id="orga06bb44"></a>
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="orgd4c8b04"></a>
+<a id="org2bdb543"></a>
 
-## Comfortable task to take on
+# Comfortable task to take on
 
 
-<a id="orga6f4e86"></a>
+<a id="orgee1f36b"></a>
 
-### Intro
+## Intro
 
 I am participating in a team of five designers and five developers. I carry out design decisions meant to align on team touchpoints. I communicated the design process to show design progress when meeting with engineers.
 
-I practice meeting with developers. Those meetings had to be short and decisive.
+I am UX designer with a performance background that colors my process. I'll show you how I rehearse my meetings with developers. Those meetings have to be short and decisive.
+
+
+<a id="org3eac5d8"></a>
+
+## Looking at the Task Business
+
+Read on to see what research and business decisions helped fast-forward the live project to a prototype status while also learning about what guides my priorites in design meetings in a team setting.
+
+I am concerned about efficiency and time spent in meetings with designers and developers.
+
+Ultimately, I am building context to accurately express the blueprints to the part of the team that will continuously build it.
 
 **Early Assumptions**
+
+The cross-functional team went to build all the parts that make up the profile within an app. This person they are modeling has age and location and a role as task giver or receiver.
 
 The mobile-sized screen is my chosen screen to build. This would put anything other than phone-sized screens further down the priority ladder.
 
@@ -49,11 +66,11 @@ I call out a few details about the choices and what doors they might open for fu
     
     I know there is less room for features. Where a user looks first takes a smaller footprint.
 
-To help, I took pieces from [Figma's Material Design UI kit] (<https://www.figma.com/community/file/880534892514982400>). It goes a bit beyond just designing for iOS products.
+To help, I use pieces from [Figma's Material Design UI kit] (<https://www.figma.com/community/file/880534892514982400>).
 
-I took my questions to other designers before meeting with engineers. Talking to the design team, they mention apps being built out for multiple screens.
+I take my questions to other designers before meeting with engineers. When talking to the design team, they mention apps being built out for multiple screens.
 
-At this initial stage, I need to describe a thing that already works. For example, I picture myself at a grocery store. I am carrying a laptop. Who pulls out a laptop at the grocery store? I am likely to use my phone instead.
+At this initial stage, I need to describe a thing that already works. For example, I picture myself at a grocery store. I am carrying a laptop. Who pulls out a laptop at the grocery store? In my thought experiment, I am likely to use my phone instead.
 
 Is it worth a fast-forward sketch-level quality if we know what design system we are in?
 
@@ -64,15 +81,15 @@ I reap the benefit of not doubling my effort over the same material. I need to k
 Before any pencil has hit paper, I have made a mental decision about where this application will live.
 
 
-<a id="org05b45c3"></a>
+<a id="orgb2b2fa9"></a>
 
-### Research
+## Research
 
 Much work on the UI has been done externally before I start. I only need to look and see what is out there.
 
 To keep from doing repetitive work, we looked at commonly used (but widely established) features that we would use as pieces of our puzzle in building the initial test app.
 
-**Common traits**
+**Commonalities**
 
 I involve more and more interviewees, testers, co-workers, and actual neighbors to better grasp of what the user might use.
 
@@ -90,49 +107,46 @@ In similar task apps, we find categories or filters. There is at least someone p
 
 I work to break feature information down into digestible parts.
 
+Parallel to the inner workings of Gudeeds, the design contributed to what is seen by the user, qualifies as the first action item for a person who needs a thing. The developers have input into deciding the priority of new capabilites we put into the app.
 
-<a id="orgc098759"></a>
+**Designing in sprint**
 
-### The work of gaining trust
-
-
-<a id="org42cd677"></a>
-
-### Challenge
-
-For favors, just the stress of asking is enough of a barrier to moving forward.
-
-
-<a id="org6458c2b"></a>
-
-### Project Solution
-
-**Less Stressed**
-
-While she may be busy adding the first few tasks, the estimation is that at this particular moment, she is less stressed out.
-
-Their offers of help go to Sabrina, where if she wants, she can approve or deny based on her original request, focusing on neighbors she deems appropriate.
+A situation was a time-crunch. It was a competition with judgment at the end. Prompted by a set needs, the business ask assumed to carry the business competition considerations needed to follow through on some aspects of the design.
 
 **Trust themes**
 
 We grouped the themes that came up among the neighbors interviewed.
 
-![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
+**Learn Quick**
+
+In a persona, I attempt to sketch out the day-to-day of a real person with limited time as it pertains to specific frustrations. Who does she pay back first?
 
 
-<a id="org7e3bfb7"></a>
+<a id="org2f10429"></a>
 
-### Looking at the Task Business
+## Gaining trust
 
-Simply learning to use the app largely guides our priorities.
+![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/61378128ec180a0d11afd84d_Snipaste_2021-09-07_10-10-14.png)
 
-The cross-functional team went to build all the parts that make up a virtual person within an app. This person they are modeling has age and location and a role as task giver or receiver.
+<https://www.renepacchaux.com/charts-overview/mood-board-proximity-gif>
 
-I am concerned about efficiency and time spent.
 
-Parallel to the inner workings of Gudeeds, the design contributed to what is seen by the user, qualifies as the first action item for a person who needs a thing.
+<a id="orgb530c57"></a>
 
-Ultimately, I am building context to hand off and accurately express the blueprints to the team that will build it.
+## Challenge
+
+For favors, just the stress of asking is enough of a barrier to moving forward. It is the top theme in user interviews.
+
+
+<a id="org2a9be66"></a>
+
+## Project Solution
+
+**Less Stressed**
+
+Their offers of help go to Sabrina, where if she wants, she can approve or deny based on her original request, focusing on neighbors she deems appropriate.
+
+While she may be busy adding the first few tasks, the estimation is that at this particular moment, she is less stressed out.
 
 **Business Analysis**
 
@@ -144,10 +158,6 @@ These allow the user to work fast:
 -   Date
 -   Items
 -   Sort
-
-**Learn Quick**
-
-In a persona, I attempt to sketch out the day-to-day of a real person with limited time as it pertains to specific frustrations. Who does she pay back first?
 
 **Closeness of Volunteers and Trust Themes**
 
@@ -171,8 +181,6 @@ Sabrina also works to raise two children.
 
 To maintain a growing connection to the people around her and in her building, neighbors need opportunities to help. I worked on simplifying this.
 
-**Trust Summary**
-
 Sabrina needs help. She needs to ask for a favor.
 
 The gudeeds app needs more user uptake to be successful. It is my role to ask what is possible from the dev team.
@@ -182,9 +190,9 @@ Don't we need a network in place to gain trust? Is that something that can be co
 The persona adds neighbors. They, in turn, help *her* down the line. Without an initial network, what would lead Sabrina to believe that this app can be of any help when she downloads it?
 
 
-<a id="org6a09ae4"></a>
+<a id="orgcc75776"></a>
 
-### Design Work
+## Design Work
 
 **Sketching**
 
@@ -194,14 +202,10 @@ I moved forward incrementally, and so did the design team. It gave us time as it
 
 I contributed to the design studio visuals knowing we had a short amount of time. We used a bracket system to come up with the final design for our sprint. The design studio winner was cleared away at the last moment for a simplified, condensed, streamlined approach that was drawn live on a meeting.
 
-**Designing for the Time Crunch**
 
-A situation was a time-crunch. It was a competition with judgment at the end.
+<a id="org6a17dbb"></a>
 
-
-<a id="org40147a9"></a>
-
-### Two canvases
+## Two canvases
 
 There is the volunteer who participates by completing grocery pickup and other tasks for the neighbors. I had to be alert about for whom the first draft is about - the volunteer or the neighbor, or both?
 
@@ -213,18 +217,14 @@ Now there is a one-pager. In total, a few screens were laid out in succession. T
 
 Are we talking about using the same screen for adding and taking on tasks? The design and engineering teams agreed that it would be both.
 
-**Moving to color**
+Our design library helped make the decision to moving to a provided color palate.
 
-Our design library helped make this decision for us.
-
-**2 Neighbors**
-
-We asked actual neighbors for their help.
+We asked 2 actual neighbors for their help and interviewed them.
 
 
-<a id="orgc82c924"></a>
+<a id="org1655f21"></a>
 
-### Clear feedback
+## Clear feedback
 
 We easily save time by acting on good feedback and making good bets. They lead us to clear skies when acting on their clues.
 
@@ -242,16 +242,20 @@ Primary action button perception was:
 Clarifying the types of tasks that others get help with, she is likely to book also.
 
 
-<a id="org8dab401"></a>
+<a id="org3eb15b5"></a>
 
-### Testing the Prototypes
+## Testing the Prototypes
+
+![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/61378c0e619a95dad0778787_protoframe_blueprint.png)
+
+<https://www.renepacchaux.com/charts-overview/gudeeds-proto-frame-blueprint>
 
 I conducted interviews and asked for thoughts aloud if they were comfortable to do so. While explaining their touchpoints on the app, I noted some recurring problems with button placement. There was also confusion about which buttons provided similar action.
 
 
-<a id="org75a2463"></a>
+<a id="org1558a8c"></a>
 
-### Snapshot and moving forward
+## Snapshot and moving forward
 
 Maybe for the backend - a dashboard, maybe. Because the testing gave an already clear direction, this contribution did not make it past the design studio stage at the early stages of work.
 
