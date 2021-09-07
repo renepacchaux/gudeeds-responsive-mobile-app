@@ -1,35 +1,33 @@
 # Gamification highlight
 
+1.  [Good deeds](#org0344625)
+    1.  [Comfortable task to take on](#orgd4c8b04)
+        1.  [Intro](#orga6f4e86)
+        2.  [Research](#org05b45c3)
+        3.  [The work of gaining trust](#orgc098759)
+        4.  [Challenge](#org42cd677)
+        5.  [Project Solution](#org6458c2b)
+        6.  [Looking at the Task Business](#org7e3bfb7)
+        7.  [Design Work](#org6a09ae4)
+        8.  [Two canvases](#org40147a9)
+        9.  [Clear feedback](#orgc82c924)
+        10. [Testing the Prototypes](#org8dab401)
+        11. [Snapshot and moving forward](#org75a2463)
 
-1.  [Good deeds](#orgeb9a8b5)
-    1.  [Comfortable task to take on](#org1063558)
-        1.  [Intro](#org4afb995)
-        2.  [Research](#org0aac22f)
-        3.  [The work of gaining trust](#org6de3dd6)
-        4.  [Challenge](#orgd0ad5fd)
-        5.  [Project Solution](#org9d50e9c)
-        6.  [Looking at the Task Business](#orge4a94bd)
-        7.  [Design Work](#orgc2fdd73)
-        8.  [Two canvases](#org8f6e0df)
-        9.  [Clear feedback](#org1cda8e0)
-        10. [Testing the Prototypes](#orgc6c8b91)
-        11. [Snapshot and moving forward](#orgef22c38)
 
-
-<a id="orgeb9a8b5"></a>
+<a id="org0344625"></a>
 
 # Good deeds
-
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org1063558"></a>
+<a id="orgd4c8b04"></a>
 
 ## Comfortable task to take on
 
 
-<a id="org4afb995"></a>
+<a id="orga6f4e86"></a>
 
 ### Intro
 
@@ -37,7 +35,7 @@ I am participating in a team of five designers and five developers. I carry out 
 
 I practice meeting with developers. Those meetings had to be short and decisive.
 
-**Early in the work**
+**Early Assumptions**
 
 The mobile-sized screen is my chosen screen to build. This would put anything other than phone-sized screens further down the priority ladder.
 
@@ -66,7 +64,7 @@ I reap the benefit of not doubling my effort over the same material. I need to k
 Before any pencil has hit paper, I have made a mental decision about where this application will live.
 
 
-<a id="org0aac22f"></a>
+<a id="org05b45c3"></a>
 
 ### Research
 
@@ -76,7 +74,7 @@ To keep from doing repetitive work, we looked at commonly used (but widely estab
 
 **Common traits**
 
-I involve more and more interviewees, testers, co-workers, and actual neighbors to get a better grasp of what the user might use.
+I involve more and more interviewees, testers, co-workers, and actual neighbors to better grasp of what the user might use.
 
 Investigating features in similar class apps opens up an opportunity to add new capabilities.
 
@@ -93,38 +91,36 @@ In similar task apps, we find categories or filters. There is at least someone p
 I work to break feature information down into digestible parts.
 
 
-<a id="org6de3dd6"></a>
+<a id="orgc098759"></a>
 
 ### The work of gaining trust
 
 
-<a id="orgd0ad5fd"></a>
+<a id="org42cd677"></a>
 
 ### Challenge
 
 For favors, just the stress of asking is enough of a barrier to moving forward.
 
 
-<a id="org9d50e9c"></a>
+<a id="org6458c2b"></a>
 
 ### Project Solution
 
 **Less Stressed**
 
-While she may be busy adding the first few tasks, the estimation is that at this particular moment she is less stressed out.
+While she may be busy adding the first few tasks, the estimation is that at this particular moment, she is less stressed out.
 
 Their offers of help go to Sabrina, where if she wants, she can approve or deny based on her original request, focusing on neighbors she deems appropriate.
 
-clear way to get a social network started from scratch.
-
 **Trust themes**
 
-We grouped the themes that came up among neighbors interviewed.
+We grouped the themes that came up among the neighbors interviewed.
 
 ![img](https://paper-attachments.dropbox.com/s_939A39C54BE532AA128503EB46A60918FB25F0AE543B578BF78BB58E8F771B97_1626047441287_2021-07-11+18.47.58.gif)
 
 
-<a id="orge4a94bd"></a>
+<a id="org7e3bfb7"></a>
 
 ### Looking at the Task Business
 
@@ -186,7 +182,7 @@ Don't we need a network in place to gain trust? Is that something that can be co
 The persona adds neighbors. They, in turn, help *her* down the line. Without an initial network, what would lead Sabrina to believe that this app can be of any help when she downloads it?
 
 
-<a id="orgc2fdd73"></a>
+<a id="org6a09ae4"></a>
 
 ### Design Work
 
@@ -196,14 +192,14 @@ I knew my first pencil design would be on a phone-width canvas or a 3x5 actual p
 
 I moved forward incrementally, and so did the design team. It gave us time as it guaranteed action on a design decision.
 
-I contributed to the design studio visuals knowing we had a short amount of time. We used a bracket system to come up with the final design for our sprint. The design studio winner was cleared away at the last moment for a simplified condensed streamlined approach that was drawn live on meeting.
+I contributed to the design studio visuals knowing we had a short amount of time. We used a bracket system to come up with the final design for our sprint. The design studio winner was cleared away at the last moment for a simplified, condensed, streamlined approach that was drawn live on a meeting.
 
 **Designing for the Time Crunch**
 
 A situation was a time-crunch. It was a competition with judgment at the end.
 
 
-<a id="org8f6e0df"></a>
+<a id="org40147a9"></a>
 
 ### Two canvases
 
@@ -215,7 +211,7 @@ I make sure, for example, an extremely busy person is not inundated with learnin
 
 Now there is a one-pager. In total, a few screens were laid out in succession. This is when we put that much to the test.
 
-Are we talking about using the same screen for adding and taking on tasks? A valueable topic of discussion, the design and engineering teams agreed that it would be both.
+Are we talking about using the same screen for adding and taking on tasks? The design and engineering teams agreed that it would be both.
 
 **Moving to color**
 
@@ -226,7 +222,7 @@ Our design library helped make this decision for us.
 We asked actual neighbors for their help.
 
 
-<a id="org1cda8e0"></a>
+<a id="orgc82c924"></a>
 
 ### Clear feedback
 
@@ -246,14 +242,14 @@ Primary action button perception was:
 Clarifying the types of tasks that others get help with, she is likely to book also.
 
 
-<a id="orgc6c8b91"></a>
+<a id="org8dab401"></a>
 
 ### Testing the Prototypes
 
 I conducted interviews and asked for thoughts aloud if they were comfortable to do so. While explaining their touchpoints on the app, I noted some recurring problems with button placement. There was also confusion about which buttons provided similar action.
 
 
-<a id="orgef22c38"></a>
+<a id="org75a2463"></a>
 
 ### Snapshot and moving forward
 
@@ -267,7 +263,7 @@ At judgment time, I thought back to the positive approach ‘more' hierarchy wou
 
 **Gudeeds as client**
 
-To Gudeeds' stakeholders, the tasks mean bookings. Each confirmation is an indicator the the design that the app is more reliable.
+To Gudeeds' stakeholders, the tasks mean bookings. Each confirmation is an indicator the design that the app is more reliable.
 
 **Next Steps**
 
@@ -277,7 +273,5 @@ Turning the task system into a game sounds like a fun idea.
 
 Sandra just downloaded the Gudeeds app. The app will help build trust across her neighbors ' relationships.
 
-If booking now is based on trust, will charts and mini-analytics be more efficient to confirming her bookings?
-
-[+Appendix ← Moar GAHA](https://paper.dropbox.com/doc/Appendix-Moar-GAHA-j7VAxDRJ291LfzXRDspUf)
+If booking now is based on trust, will charts and mini-analytics be more efficient at confirming her bookings?
 
