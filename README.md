@@ -44,7 +44,7 @@ I am UX designer with a performance background that colors my process. I'll show
 
 ## Looking at the Task Business
 
-Read on to see what research and business decisions helped fast-forward the live project to a prototype status while also learning about what guides my priorites in design meetings in a team setting.
+Read on to see what research and business decisions helped fast-forward the live project to a prototype status while also learning about what guides my priorities in design meetings in a team setting.
 
 I am concerned about efficiency and time spent in meetings with designers and developers.
 
@@ -107,7 +107,7 @@ In similar task apps, we find categories or filters. There is at least someone p
 
 I work to break feature information down into digestible parts.
 
-Parallel to the inner workings of Gudeeds, the design contributed to what is seen by the user, qualifies as the first action item for a person who needs a thing. The developers have input into deciding the priority of new capabilites we put into the app.
+Parallel to the inner workings of Gudeeds, the design contributed to what is seen by the user, qualifies as the first action item for a person who needs a thing. The developers have input into deciding the priority of new capabilities we put into the app.
 
 **Designing in sprint**
 
@@ -267,7 +267,7 @@ At judgment time, I thought back to the positive approach ‘more' hierarchy wou
 
 **Gudeeds as client**
 
-To Gudeeds' stakeholders, the tasks mean bookings. Each confirmation is an indicator the design that the app is more reliable.
+To Gudeeds' stakeholders, the tasks mean bookings. Each confirmation is an indicator of the design that the app is more reliable.
 
 **Next Steps**
 
@@ -277,5 +277,4 @@ Turning the task system into a game sounds like a fun idea.
 
 Sandra just downloaded the Gudeeds app. The app will help build trust across her neighbors ' relationships.
 
-If booking now is based on trust, will charts and mini-analytics be more efficient at confirming her bookings?
-
+If booking is based on trust, will charts and mini-analytics be more efficient at confirming her bookings?
