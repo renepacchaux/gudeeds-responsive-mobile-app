@@ -1,42 +1,47 @@
-# Gamification highlight
+# Proposing Gamification
 
-1.  [Good deeds](#orgea9a266)
-    1.  [Task businesses researched](#org749a2fc)
-        1.  [Intro](#org5c34040)
-        2.  [Looking at the Task Business](#org50ff0fc)
-        3.  [Research](#org3260c51)
-        4.  [Gaining trust](#org4c09255)
-        5.  [Challenge](#orga27c628)
-        6.  [Project Solution](#orgff26cea)
-        7.  [Design Work](#org22ffebb)
-        8.  [Two canvases](#orgc5caf3d)
-        9.  [Clear feedback](#orgb76c392)
-        10. [Testing the Prototypes](#org36b043a)
-        11. [Snapshot and moving forward](#org51dc7ef)
+1.  [Good deeds](#orgcdb6a84)
+    1.  [Anxious situation for task delivery](#orgdbd876e)
+        1.  [Intro](#org317231a)
+        2.  [Looking at the Task Business](#org3d84541)
+        3.  [Research](#org3e862ee)
+        4.  [Gaining trust](#orgbfc6b2a)
+        5.  [Challenge](#org68300ce)
+        6.  [Project Solution](#orgf99db1d)
+        7.  [Design Work](#org961a4aa)
+        8.  [Two canvases](#org8644c44)
+        9.  [Clear feedback](#org0c96fa4)
+        10. [Testing the Prototypes](#orgda0dedc)
+        11. [Snapshot and moving forward](#orgb351890)
 
 
-<a id="orgea9a266"></a>
+<a id="orgcdb6a84"></a>
 
 # Good deeds
+
+
+<a id="org278c580"></a>
 
 ![img](https://cdn.jsdelivr.net/gh/renepacchaux/gudeeds-responsive-mobile-app@assets/figure1n.gif)
 
 
-<a id="org749a2fc"></a>
+<a id="orgdbd876e"></a>
 
-## Task businesses researched
+## Anxious situation for task delivery
+
+1.  Enabling deed recognition by locals
 
 
-<a id="org5c34040"></a>
+<a id="org317231a"></a>
 
 ### Intro
 
-I am participating in a team of five designers and five developers. I carry out design decisions meant to align on team touchpoints. I communicated the design process to show design progress when meeting with engineers.
+Participating in a team of five designers and five developers, I roughly communicate what later becomes team touchpoints. Decisions by the engineers are facilited with the design process.
 
-I am UX designer with a performance background that colors my process. I'll show you how I rehearse my meetings with developers. Those meetings have to be short and decisive.
+I'll talk about how I process a decision-required meeting.
 
 
-<a id="org50ff0fc"></a>
+<a id="org3d84541"></a>
 
 ### Looking at the Task Business
 
@@ -77,7 +82,7 @@ I reap the benefit of not doubling my effort over the same material. I need to k
 Before any pencil has hit paper, I have made a mental decision about where this application will live.
 
 
-<a id="org3260c51"></a>
+<a id="org3e862ee"></a>
 
 ### Research
 
@@ -118,7 +123,7 @@ We grouped the themes that came up among the neighbors interviewed.
 In a persona, I attempt to sketch out the day-to-day of a real person with limited time as it pertains to specific frustrations. Who does she pay back first?
 
 
-<a id="org4c09255"></a>
+<a id="orgbfc6b2a"></a>
 
 ### Gaining trust
 
@@ -127,14 +132,14 @@ In a persona, I attempt to sketch out the day-to-day of a real person with limit
 <https://www.renepacchaux.com/charts-overview/mood-board-proximity-gif>
 
 
-<a id="orga27c628"></a>
+<a id="org68300ce"></a>
 
 ### Challenge
 
 For favors, just the stress of asking is enough of a barrier to moving forward. It is the top theme in user interviews.
 
 
-<a id="orgff26cea"></a>
+<a id="orgf99db1d"></a>
 
 ### Project Solution
 
@@ -186,7 +191,7 @@ Don't we need a network in place to gain trust? Is that something that can be co
 The persona adds neighbors. They, in turn, help *her* down the line. Without an initial network, what would lead Sabrina to believe that this app can be of any help when she downloads it?
 
 
-<a id="org22ffebb"></a>
+<a id="org961a4aa"></a>
 
 ### Design Work
 
@@ -199,7 +204,7 @@ I moved forward incrementally, and so did the design team. It gave us time as it
 I contributed to the design studio visuals knowing we had a short amount of time. We used a bracket system to come up with the final design for our sprint. The design studio winner was cleared away at the last moment for a simplified, condensed, streamlined approach that was drawn live on a meeting.
 
 
-<a id="orgc5caf3d"></a>
+<a id="org8644c44"></a>
 
 ### Two canvases
 
@@ -218,7 +223,7 @@ Our design library helped make the decision to moving to a provided color palate
 We asked two actual neighbors for their help and interviewed them.
 
 
-<a id="orgb76c392"></a>
+<a id="org0c96fa4"></a>
 
 ### Clear feedback
 
@@ -238,7 +243,7 @@ Primary action button perception was:
 Clarifying the types of tasks that others get help with, she is likely to book also.
 
 
-<a id="org36b043a"></a>
+<a id="orgda0dedc"></a>
 
 ### Testing the Prototypes
 
@@ -249,7 +254,7 @@ Clarifying the types of tasks that others get help with, she is likely to book a
 I conducted interviews and asked for thoughts aloud if they were comfortable to do so. While explaining their touchpoints on the app, I noted some recurring problems with button placement. There was also confusion about which buttons provided similar action.
 
 
-<a id="org51dc7ef"></a>
+<a id="orgb351890"></a>
 
 ### Snapshot and moving forward
 
